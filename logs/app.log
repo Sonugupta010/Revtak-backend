@@ -1,0 +1,2406 @@
+2024-05-27 23:48:11 - Could not detect default configuration classes for test class [com.revtaskmanagement.RevTask.RevTaskApplicationTests]: RevTaskApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-27 23:48:11 - Found @SpringBootConfiguration com.revtaskmanagement.RevTask.RevTaskApplication for test class com.revtaskmanagement.RevTask.RevTaskApplicationTests
+2024-05-27 23:48:12 - Starting RevTaskApplicationTests using Java 22.0.1 with PID 13040 (started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-27 23:48:12 - No active profile set, falling back to 1 default profile: "default"
+2024-05-27 23:48:13 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-27 23:48:13 - Finished Spring Data repository scanning in 95 ms. Found 7 JPA repository interfaces.
+2024-05-27 23:48:13 - HikariPool-1 - Starting...
+2024-05-27 23:48:14 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 1a582a4a-69b2-455c-80aa-de5168c2d446
+2024-05-27 23:48:14 - HikariPool-1 - Start completed.
+2024-05-27 23:48:14 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-27 23:48:14 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-27 23:48:14 - HHH000026: Second-level cache disabled
+2024-05-27 23:48:14 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-27 23:48:16 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-27 23:48:18 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-27 23:48:18 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-27 23:48:19 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-27 23:48:20 - Started RevTaskApplicationTests in 8.064 seconds (process running for 9.457)
+2024-05-27 23:48:21 - Updating project manager with ID: 1
+2024-05-27 23:48:21 - Updated project manager with ID: 1
+2024-05-27 23:48:21 - Creating new project manager: ProjectManager(id=null, username=John, password=password, email=john@example.com, projects=null)
+2024-05-27 23:48:21 - Created project manager: ProjectManager(id=null, username=John, password=password, email=john@example.com, projects=null)
+2024-05-27 23:48:21 - Fetching project manager by ID: 1
+2024-05-27 23:48:21 - Found project manager with ID: 1
+2024-05-27 23:48:21 - Fetching all project managers
+2024-05-27 23:48:21 - Found 2 project managers
+2024-05-27 23:48:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-27 23:48:21 - HikariPool-1 - Shutdown initiated...
+2024-05-27 23:48:21 - HikariPool-1 - Shutdown completed.
+2024-05-27 23:48:54 - Starting RevTaskApplication using Java 22.0.1 with PID 10048 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-27 23:48:54 - No active profile set, falling back to 1 default profile: "default"
+2024-05-27 23:48:55 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-27 23:48:55 - Finished Spring Data repository scanning in 94 ms. Found 7 JPA repository interfaces.
+2024-05-27 23:48:55 - Tomcat initialized with port 8080 (http)
+2024-05-27 23:48:55 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-27 23:48:55 - Starting service [Tomcat]
+2024-05-27 23:48:55 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-27 23:48:55 - Initializing Spring embedded WebApplicationContext
+2024-05-27 23:48:55 - Root WebApplicationContext: initialization completed in 1672 ms
+2024-05-27 23:48:55 - HikariPool-1 - Starting...
+2024-05-27 23:48:56 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 2d7d334c-8b0a-4985-8d1a-abdc1aa33a2c
+2024-05-27 23:48:56 - HikariPool-1 - Start completed.
+2024-05-27 23:48:56 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-27 23:48:56 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-27 23:48:56 - HHH000026: Second-level cache disabled
+2024-05-27 23:48:57 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-27 23:48:58 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-27 23:48:59 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-27 23:48:59 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-27 23:49:00 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-27 23:49:00 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-27 23:49:00 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-27 23:49:00 - Started RevTaskApplication in 7.224 seconds (process running for 7.811)
+2024-05-27 23:49:50 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-27 23:49:50 - Initializing Servlet 'dispatcherServlet'
+2024-05-27 23:49:50 - Completed initialization in 3 ms
+2024-05-27 23:49:50 - Fetching all project managers
+2024-05-27 23:49:50 - Found 4 project managers
+2024-05-28 00:04:53 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:04:53 - HikariPool-1 - Shutdown initiated...
+2024-05-28 00:04:53 - HikariPool-1 - Shutdown completed.
+2024-05-28 00:05:06 - Starting RevTaskApplication using Java 22.0.1 with PID 13828 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 00:05:06 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 00:05:07 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 00:05:07 - Finished Spring Data repository scanning in 86 ms. Found 7 JPA repository interfaces.
+2024-05-28 00:05:07 - Tomcat initialized with port 8080 (http)
+2024-05-28 00:05:07 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:05:07 - Starting service [Tomcat]
+2024-05-28 00:05:07 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 00:05:08 - Initializing Spring embedded WebApplicationContext
+2024-05-28 00:05:08 - Root WebApplicationContext: initialization completed in 1698 ms
+2024-05-28 00:05:08 - HikariPool-1 - Starting...
+2024-05-28 00:05:08 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: c14be4d8-f19e-4dfc-b1e0-980eec656369
+2024-05-28 00:05:08 - HikariPool-1 - Start completed.
+2024-05-28 00:05:09 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 00:05:09 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 00:05:09 - HHH000026: Second-level cache disabled
+2024-05-28 00:05:09 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 00:05:10 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 00:05:11 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:05:12 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 00:05:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 00:05:13 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:05:13 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 00:05:13 - Started RevTaskApplication in 7.855 seconds (process running for 8.554)
+2024-05-28 00:07:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:07:21 - HikariPool-1 - Shutdown initiated...
+2024-05-28 00:07:21 - HikariPool-1 - Shutdown completed.
+2024-05-28 00:07:32 - Starting RevTaskApplication using Java 22.0.1 with PID 18768 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 00:07:32 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 00:07:32 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 00:07:33 - Finished Spring Data repository scanning in 89 ms. Found 7 JPA repository interfaces.
+2024-05-28 00:07:33 - Tomcat initialized with port 8080 (http)
+2024-05-28 00:07:33 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:07:33 - Starting service [Tomcat]
+2024-05-28 00:07:33 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 00:07:33 - Initializing Spring embedded WebApplicationContext
+2024-05-28 00:07:33 - Root WebApplicationContext: initialization completed in 1607 ms
+2024-05-28 00:07:34 - HikariPool-1 - Starting...
+2024-05-28 00:07:34 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: ed17d360-5518-44eb-9cd1-64994afa4004
+2024-05-28 00:07:34 - HikariPool-1 - Start completed.
+2024-05-28 00:07:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 00:07:34 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 00:07:34 - HHH000026: Second-level cache disabled
+2024-05-28 00:07:35 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 00:07:36 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 00:07:37 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:07:37 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 00:07:38 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 00:07:38 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:07:38 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 00:07:38 - Started RevTaskApplication in 7.012 seconds (process running for 7.624)
+2024-05-28 00:09:03 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 00:09:03 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 00:09:03 - Completed initialization in 3 ms
+2024-05-28 00:09:18 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:09:18 - HikariPool-1 - Shutdown initiated...
+2024-05-28 00:09:18 - HikariPool-1 - Shutdown completed.
+2024-05-28 00:09:55 - Starting RevTaskApplication using Java 22.0.1 with PID 14220 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 00:09:55 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 00:09:56 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 00:09:56 - Finished Spring Data repository scanning in 97 ms. Found 7 JPA repository interfaces.
+2024-05-28 00:09:57 - Tomcat initialized with port 8080 (http)
+2024-05-28 00:09:57 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:09:57 - Starting service [Tomcat]
+2024-05-28 00:09:57 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 00:09:57 - Initializing Spring embedded WebApplicationContext
+2024-05-28 00:09:57 - Root WebApplicationContext: initialization completed in 1639 ms
+2024-05-28 00:09:57 - HikariPool-1 - Starting...
+2024-05-28 00:09:57 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 39a25ca2-4b76-4c2b-82dd-5f4e6b59742c
+2024-05-28 00:09:57 - HikariPool-1 - Start completed.
+2024-05-28 00:09:57 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 00:09:57 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 00:09:57 - HHH000026: Second-level cache disabled
+2024-05-28 00:09:58 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 00:09:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 00:10:00 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:10:00 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 00:10:01 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 00:10:01 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:10:01 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 00:10:01 - Started RevTaskApplication in 6.843 seconds (process running for 7.414)
+2024-05-28 00:10:41 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:10:41 - HikariPool-1 - Shutdown initiated...
+2024-05-28 00:10:41 - HikariPool-1 - Shutdown completed.
+2024-05-28 00:10:47 - Starting RevTaskApplication using Java 22.0.1 with PID 6548 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 00:10:47 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 00:10:47 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 00:10:48 - Finished Spring Data repository scanning in 91 ms. Found 7 JPA repository interfaces.
+2024-05-28 00:10:48 - Tomcat initialized with port 8080 (http)
+2024-05-28 00:10:48 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:10:48 - Starting service [Tomcat]
+2024-05-28 00:10:48 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 00:10:48 - Initializing Spring embedded WebApplicationContext
+2024-05-28 00:10:48 - Root WebApplicationContext: initialization completed in 1590 ms
+2024-05-28 00:10:48 - HikariPool-1 - Starting...
+2024-05-28 00:10:49 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 98dee9b7-9380-4c83-a889-352485f51d5a
+2024-05-28 00:10:49 - HikariPool-1 - Start completed.
+2024-05-28 00:10:49 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 00:10:49 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 00:10:49 - HHH000026: Second-level cache disabled
+2024-05-28 00:10:49 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 00:10:50 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 00:10:51 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:10:52 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 00:10:52 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 00:10:53 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:10:53 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 00:10:53 - Started RevTaskApplication in 6.631 seconds (process running for 7.19)
+2024-05-28 00:12:41 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 00:12:41 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 00:12:41 - Completed initialization in 4 ms
+2024-05-28 00:12:41 - Fetching all projects
+2024-05-28 00:12:42 - Projects fetched successfully
+2024-05-28 00:18:46 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:18:46 - HikariPool-1 - Shutdown initiated...
+2024-05-28 00:18:46 - HikariPool-1 - Shutdown completed.
+2024-05-28 00:19:41 - Starting RevTaskApplication using Java 22.0.1 with PID 12920 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 00:19:41 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 00:19:42 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 00:19:42 - Finished Spring Data repository scanning in 84 ms. Found 7 JPA repository interfaces.
+2024-05-28 00:19:43 - Tomcat initialized with port 8080 (http)
+2024-05-28 00:19:43 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:19:43 - Starting service [Tomcat]
+2024-05-28 00:19:43 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 00:19:43 - Initializing Spring embedded WebApplicationContext
+2024-05-28 00:19:43 - Root WebApplicationContext: initialization completed in 1693 ms
+2024-05-28 00:19:43 - HikariPool-1 - Starting...
+2024-05-28 00:19:44 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 0fb18980-8e1f-4b7b-b14b-cb6d2eafc4ae
+2024-05-28 00:19:44 - HikariPool-1 - Start completed.
+2024-05-28 00:19:44 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 00:19:44 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 00:19:44 - HHH000026: Second-level cache disabled
+2024-05-28 00:19:45 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 00:19:46 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 00:19:47 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:19:47 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 00:19:48 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 00:19:48 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:19:48 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 00:19:48 - Started RevTaskApplication in 7.473 seconds (process running for 8.141)
+2024-05-28 00:22:07 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 00:22:07 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 00:22:07 - Completed initialization in 3 ms
+2024-05-28 00:22:08 - Fetching project with id: 1
+2024-05-28 00:22:08 - Project found with id: 1
+2024-05-28 00:29:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:29:21 - HikariPool-1 - Shutdown initiated...
+2024-05-28 00:29:21 - HikariPool-1 - Shutdown completed.
+2024-05-28 00:50:41 - Starting RevTaskApplication using Java 22.0.1 with PID 1692 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 00:50:41 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 00:50:42 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 00:50:42 - Finished Spring Data repository scanning in 97 ms. Found 7 JPA repository interfaces.
+2024-05-28 00:50:42 - Tomcat initialized with port 8080 (http)
+2024-05-28 00:50:42 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:50:42 - Starting service [Tomcat]
+2024-05-28 00:50:42 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 00:50:42 - Initializing Spring embedded WebApplicationContext
+2024-05-28 00:50:42 - Root WebApplicationContext: initialization completed in 1671 ms
+2024-05-28 00:50:43 - HikariPool-1 - Starting...
+2024-05-28 00:50:43 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: c44de6cc-d9ad-4d36-998a-5b7b9999dac6
+2024-05-28 00:50:43 - HikariPool-1 - Start completed.
+2024-05-28 00:50:43 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 00:50:43 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 00:50:43 - HHH000026: Second-level cache disabled
+2024-05-28 00:50:44 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 00:50:45 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 00:50:46 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 00:50:46 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 00:50:47 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 00:50:47 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 00:50:47 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 00:50:48 - Started RevTaskApplication in 7.264 seconds (process running for 7.812)
+2024-05-28 00:51:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 00:51:15 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 00:51:15 - Completed initialization in 2 ms
+2024-05-28 00:51:15 - Fetching project with id: 1
+2024-05-28 00:51:15 - Project found with id: 1
+2024-05-28 00:51:21 - Fetching project with id: 2
+2024-05-28 00:51:21 - Project found with id: 2
+2024-05-28 00:53:12 - Creating new admin with username admin1
+2024-05-28 00:53:12 - Created admin with id 1
+2024-05-28 00:53:12 - Fetching all admins
+2024-05-28 00:53:12 - Fetched 2 admins
+2024-05-28 00:53:12 - Fetching admin with id 1
+2024-05-28 01:01:05 - Could not detect default configuration classes for test class [com.revtaskmanagement.RevTask.Service.IntegrationTests]: IntegrationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-28 01:01:05 - Found @SpringBootConfiguration com.revtaskmanagement.RevTask.RevTaskApplication for test class com.revtaskmanagement.RevTask.Service.IntegrationTests
+2024-05-28 01:01:06 - Starting IntegrationTests using Java 22.0.1 with PID 20116 (started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:01:06 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:01:07 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:01:07 - Finished Spring Data repository scanning in 77 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:01:07 - HikariPool-1 - Starting...
+2024-05-28 01:01:08 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 747571bb-b614-4d51-9c6f-da19b50b0fd2
+2024-05-28 01:01:08 - HikariPool-1 - Start completed.
+2024-05-28 01:01:08 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:01:08 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:01:08 - HHH000026: Second-level cache disabled
+2024-05-28 01:01:08 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:01:09 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:01:10 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:01:11 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:01:12 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:01:12 - Started IntegrationTests in 6.485 seconds (process running for 7.733)
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:01:13 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:01:13 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:01:13 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:01:13 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:04:58 - Could not detect default configuration classes for test class [com.revtaskmanagement.RevTask.Service.ProjectServiceTest]: ProjectServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-28 01:04:58 - Found @SpringBootConfiguration com.revtaskmanagement.RevTask.RevTaskApplication for test class com.revtaskmanagement.RevTask.Service.ProjectServiceTest
+2024-05-28 01:04:58 - Starting ProjectServiceTest using Java 22.0.1 with PID 19400 (started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:04:58 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:04:59 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:04:59 - Finished Spring Data repository scanning in 82 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:05:01 - HikariPool-1 - Starting...
+2024-05-28 01:05:02 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: dd87e87c-c7bb-40fc-bbe8-c9b6c9e5a6a0
+2024-05-28 01:05:02 - HikariPool-1 - Start completed.
+2024-05-28 01:05:02 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:05:02 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:05:02 - HHH000026: Second-level cache disabled
+2024-05-28 01:05:02 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:05:03 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:05:04 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:05:05 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:05:05 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:05:06 - Started ProjectServiceTest in 7.928 seconds (process running for 9.118)
+2024-05-28 01:05:06 - Fetching project with id: 1
+2024-05-28 01:05:06 - Project found with id: 1
+2024-05-28 01:05:06 - Creating new project: Project(id=1, name=Project A, description=Description A, projectManager=ProjectManager(id=1, username=Manager A, password=null, email=null, projects=null), teamMembers=null, tasks=[], client=Client(id=1, name=Client A, email=null, projects=null), projectDetail=null)
+2024-05-28 01:05:06 - Project created successfully: Project(id=1, name=Project A, description=Description A, projectManager=ProjectManager(id=1, username=Manager A, password=null, email=null, projects=null), teamMembers=null, tasks=[], client=Client(id=1, name=Client A, email=null, projects=null), projectDetail=null)
+2024-05-28 01:05:06 - Updating project with id: 1
+2024-05-28 01:05:06 - Project updated successfully: Project(id=1, name=Updated Project A, description=Updated Description A, projectManager=null, teamMembers=null, tasks=[], client=null, projectDetail=null)
+2024-05-28 01:05:06 - Deleting project with id: 1
+2024-05-28 01:05:06 - Project deleted with id: 1
+2024-05-28 01:05:06 - Fetching all projects
+2024-05-28 01:05:06 - Total projects found: 2
+2024-05-28 01:05:06 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:05:06 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:05:06 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:05:50 - Could not detect default configuration classes for test class [com.revtaskmanagement.RevTask.Service.ProjectServiceTest]: ProjectServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-28 01:05:50 - Found @SpringBootConfiguration com.revtaskmanagement.RevTask.RevTaskApplication for test class com.revtaskmanagement.RevTask.Service.ProjectServiceTest
+2024-05-28 01:05:50 - Starting ProjectServiceTest using Java 22.0.1 with PID 7616 (started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:05:50 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:05:51 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:05:51 - Finished Spring Data repository scanning in 79 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:05:53 - HikariPool-1 - Starting...
+2024-05-28 01:05:54 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: cea32749-3073-42d8-9be8-abc2c4d8c076
+2024-05-28 01:05:54 - HikariPool-1 - Start completed.
+2024-05-28 01:05:54 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:05:54 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:05:54 - HHH000026: Second-level cache disabled
+2024-05-28 01:05:54 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:05:55 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:05:56 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:05:56 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:05:57 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:05:58 - Started ProjectServiceTest in 7.615 seconds (process running for 8.882)
+2024-05-28 01:05:58 - Fetching project with id: 1
+2024-05-28 01:05:58 - Project found with id: 1
+2024-05-28 01:05:58 - Creating new project: Project(id=1, name=Project A, description=Description A, projectManager=ProjectManager(id=1, username=Manager A, password=null, email=null, projects=null), teamMembers=null, tasks=[], client=Client(id=1, name=Client A, email=null, projects=null), projectDetail=null)
+2024-05-28 01:05:58 - Project created successfully: Project(id=1, name=Project A, description=Description A, projectManager=ProjectManager(id=1, username=Manager A, password=null, email=null, projects=null), teamMembers=null, tasks=[], client=Client(id=1, name=Client A, email=null, projects=null), projectDetail=null)
+2024-05-28 01:05:58 - Updating project with id: 1
+2024-05-28 01:05:58 - Project updated successfully: Project(id=1, name=Updated Project A, description=Updated Description A, projectManager=null, teamMembers=null, tasks=[], client=null, projectDetail=null)
+2024-05-28 01:05:58 - Deleting project with id: 1
+2024-05-28 01:05:58 - Project deleted with id: 1
+2024-05-28 01:05:58 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:05:58 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:05:58 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:07:11 - Fetching all tasks
+2024-05-28 01:07:11 - Fetched 2 tasks
+2024-05-28 01:07:11 - Updating task with id 1
+2024-05-28 01:07:11 - Updated task with id 1
+2024-05-28 01:07:11 - Creating new task with title Task 1
+2024-05-28 01:07:11 - Created task with id 1
+2024-05-28 01:07:11 - Fetching task with id 1
+2024-05-28 01:07:11 - Fetched task with id 1
+2024-05-28 01:07:11 - Deleting task with id 1
+2024-05-28 01:07:11 - Deleted task with id 1
+2024-05-28 01:07:11 - Deleting task with id 1
+2024-05-28 01:07:11 - Task not found with id 1
+2024-05-28 01:07:11 - Updating task with id 1
+2024-05-28 01:07:11 - Task not found with id 1
+2024-05-28 01:20:55 - Could not detect default configuration classes for test class [com.revtaskmanagement.RevTask.Service.IntegrationTests]: IntegrationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-28 01:20:55 - Found @SpringBootConfiguration com.revtaskmanagement.RevTask.RevTaskApplication for test class com.revtaskmanagement.RevTask.Service.IntegrationTests
+2024-05-28 01:20:56 - Starting IntegrationTests using Java 22.0.1 with PID 22016 (started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:20:56 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:20:57 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:20:57 - Finished Spring Data repository scanning in 82 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:20:57 - HikariPool-1 - Starting...
+2024-05-28 01:20:58 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 2905411d-2d02-453e-83a2-7200734eadad
+2024-05-28 01:20:58 - HikariPool-1 - Start completed.
+2024-05-28 01:20:58 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:20:58 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:20:58 - HHH000026: Second-level cache disabled
+2024-05-28 01:20:58 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:20:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:21:00 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:21:01 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:21:02 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:21:02 - Started IntegrationTests in 6.497 seconds (process running for 7.753)
+2024-05-28 01:21:03 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:21:03 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:21:03 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:21:03 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:21:03 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:22:57 - Fetching project with id: 2
+2024-05-28 01:22:57 - Project found with id: 2
+2024-05-28 01:23:04 - Fetching project with id: 1
+2024-05-28 01:23:04 - Project found with id: 1
+2024-05-28 01:24:01 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:24:01 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:24:01 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:24:05 - Could not detect default configuration classes for test class [com.revtaskmanagement.RevTask.Service.IntegrationTests]: IntegrationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-28 01:24:05 - Found @SpringBootConfiguration com.revtaskmanagement.RevTask.RevTaskApplication for test class com.revtaskmanagement.RevTask.Service.IntegrationTests
+2024-05-28 01:24:06 - Starting IntegrationTests using Java 22.0.1 with PID 15184 (started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:24:06 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:24:07 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:24:07 - Finished Spring Data repository scanning in 76 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:24:07 - HikariPool-1 - Starting...
+2024-05-28 01:24:08 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 91826d22-f436-49d1-abb4-93b891c641a1
+2024-05-28 01:24:08 - HikariPool-1 - Start completed.
+2024-05-28 01:24:08 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:24:08 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:24:08 - HHH000026: Second-level cache disabled
+2024-05-28 01:24:08 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:24:09 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:24:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:24:13 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:24:14 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:24:15 - Started IntegrationTests in 9.181 seconds (process running for 10.426)
+2024-05-28 01:24:15 - SQL Error: 547, SQLState: 23000
+2024-05-28 01:24:15 - The DELETE statement conflicted with the REFERENCE constraint "FKkmo4542if59984xvsp8y23qan". The conflict occurred in database "RevTask", table "dbo.task", column 'assigned_to'.
+2024-05-28 01:24:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:24:15 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:24:15 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:24:29 - Starting RevTaskApplication using Java 22.0.1 with PID 16160 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:24:29 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:24:29 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:24:30 - Finished Spring Data repository scanning in 92 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:24:30 - Tomcat initialized with port 8080 (http)
+2024-05-28 01:24:30 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 01:24:30 - Starting service [Tomcat]
+2024-05-28 01:24:30 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 01:24:30 - Initializing Spring embedded WebApplicationContext
+2024-05-28 01:24:30 - Root WebApplicationContext: initialization completed in 1590 ms
+2024-05-28 01:24:30 - HikariPool-1 - Starting...
+2024-05-28 01:24:31 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 7484e81a-b2ba-462e-863a-7ab2e6b301bf
+2024-05-28 01:24:31 - HikariPool-1 - Start completed.
+2024-05-28 01:24:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:24:31 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:24:31 - HHH000026: Second-level cache disabled
+2024-05-28 01:24:31 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:24:33 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:24:34 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:24:34 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:24:35 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:24:35 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 01:24:35 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 01:24:35 - Started RevTaskApplication in 6.966 seconds (process running for 7.53)
+2024-05-28 01:24:36 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:24:36 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:24:36 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:24:40 - Starting RevTaskApplication using Java 22.0.1 with PID 20516 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:24:40 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:24:41 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:24:41 - Finished Spring Data repository scanning in 82 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:24:42 - Tomcat initialized with port 8080 (http)
+2024-05-28 01:24:42 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 01:24:42 - Starting service [Tomcat]
+2024-05-28 01:24:42 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 01:24:42 - Initializing Spring embedded WebApplicationContext
+2024-05-28 01:24:42 - Root WebApplicationContext: initialization completed in 1552 ms
+2024-05-28 01:24:42 - HikariPool-1 - Starting...
+2024-05-28 01:24:42 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 9931804f-7215-44c5-aea0-22530a230119
+2024-05-28 01:24:42 - HikariPool-1 - Start completed.
+2024-05-28 01:24:42 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:24:42 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:24:42 - HHH000026: Second-level cache disabled
+2024-05-28 01:24:43 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:24:44 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:24:44 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:24:45 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:24:45 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:24:46 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 01:24:46 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 01:24:46 - Started RevTaskApplication in 5.923 seconds (process running for 6.538)
+2024-05-28 01:25:08 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:25:08 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:25:08 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:25:10 - Starting RevTaskApplication using Java 22.0.1 with PID 19432 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:25:10 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:25:11 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:25:11 - Finished Spring Data repository scanning in 94 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:25:11 - Tomcat initialized with port 8080 (http)
+2024-05-28 01:25:11 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 01:25:11 - Starting service [Tomcat]
+2024-05-28 01:25:11 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 01:25:11 - Initializing Spring embedded WebApplicationContext
+2024-05-28 01:25:11 - Root WebApplicationContext: initialization completed in 1745 ms
+2024-05-28 01:25:12 - HikariPool-1 - Starting...
+2024-05-28 01:25:12 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 2aa89596-2255-4029-885c-a6d024418830
+2024-05-28 01:25:12 - HikariPool-1 - Start completed.
+2024-05-28 01:25:12 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:25:12 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:25:12 - HHH000026: Second-level cache disabled
+2024-05-28 01:25:13 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:25:14 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:25:14 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:25:14 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:25:15 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:25:15 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 01:25:15 - Started RevTaskApplication in 6.203 seconds (process running for 6.808)
+2024-05-28 01:25:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:25:15 - HikariPool-1 - Shutdown initiated...
+2024-05-28 01:25:15 - HikariPool-1 - Shutdown completed.
+2024-05-28 01:25:21 - Starting RevTaskApplication using Java 22.0.1 with PID 12696 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 01:25:21 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 01:25:22 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 01:25:22 - Finished Spring Data repository scanning in 88 ms. Found 7 JPA repository interfaces.
+2024-05-28 01:25:23 - Tomcat initialized with port 8080 (http)
+2024-05-28 01:25:23 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 01:25:23 - Starting service [Tomcat]
+2024-05-28 01:25:23 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 01:25:23 - Initializing Spring embedded WebApplicationContext
+2024-05-28 01:25:23 - Root WebApplicationContext: initialization completed in 1642 ms
+2024-05-28 01:25:23 - HikariPool-1 - Starting...
+2024-05-28 01:25:24 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: c6a082be-1e2f-4da1-ac87-819ab9d005f4
+2024-05-28 01:25:24 - HikariPool-1 - Start completed.
+2024-05-28 01:25:24 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 01:25:24 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 01:25:24 - HHH000026: Second-level cache disabled
+2024-05-28 01:25:24 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 01:25:25 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 01:25:26 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 01:25:27 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 01:25:27 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 01:25:28 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 01:25:28 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 01:25:28 - Started RevTaskApplication in 6.972 seconds (process running for 7.519)
+2024-05-28 01:30:40 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 01:30:40 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 01:30:40 - Completed initialization in 2 ms
+2024-05-28 01:30:40 - Fetching all project managers
+2024-05-28 01:30:40 - Found 4 project managers
+2024-05-28 01:36:02 - Deactivating team member with id 1
+2024-05-28 01:36:02 - TeamMember not found with id 1
+2024-05-28 01:36:02 - Creating new team member with email user1@example.com
+2024-05-28 01:36:02 - Created team member with id 1
+2024-05-28 01:36:02 - Deactivating team member with id 1
+2024-05-28 01:36:02 - Deactivated team member with id 1
+2024-05-28 01:36:02 - Fetching all team members
+2024-05-28 01:36:02 - Fetched 2 team members
+2024-05-28 01:36:02 - Activating team member with id 1
+2024-05-28 01:36:02 - Activated team member with id 1
+2024-05-28 01:36:02 - Updating team member with id 1
+2024-05-28 01:36:02 - Updated email and role for team member with id 1
+2024-05-28 01:36:02 - Fetched updated team member with id 1
+2024-05-28 01:36:02 - Fetching team member with id 1
+2024-05-28 01:36:02 - Fetched team member with id 1
+2024-05-28 01:36:02 - Activating team member with id 1
+2024-05-28 01:36:02 - TeamMember not found with id 1
+2024-05-28 01:39:40 - Updating project manager with ID: 1
+2024-05-28 01:39:40 - Updated project manager with ID: 1
+2024-05-28 01:39:40 - Creating new project manager: ProjectManager(id=null, username=John, password=password, email=john@example.com, projects=null)
+2024-05-28 01:39:40 - Created project manager: ProjectManager(id=null, username=John, password=password, email=john@example.com, projects=null)
+2024-05-28 01:39:40 - Fetching project manager by ID: 1
+2024-05-28 01:39:40 - Found project manager with ID: 1
+2024-05-28 01:39:40 - Fetching all project managers
+2024-05-28 01:39:40 - Found 2 project managers
+2024-05-28 06:14:45 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h34m50s891ms955µs300ns).
+2024-05-28 09:50:28 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h34m42s608ms885µs400ns).
+2024-05-28 10:07:04 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m36s401ms155µs500ns).
+2024-05-28 10:19:56 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 10:19:56 - HikariPool-1 - Shutdown initiated...
+2024-05-28 10:19:56 - HikariPool-1 - Shutdown completed.
+2024-05-28 10:32:28 - Starting RevTaskApplication using Java 22.0.1 with PID 3012 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 10:32:28 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 10:32:29 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 10:32:29 - Finished Spring Data repository scanning in 70 ms. Found 7 JPA repository interfaces.
+2024-05-28 10:32:30 - Tomcat initialized with port 8080 (http)
+2024-05-28 10:32:30 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 10:32:30 - Starting service [Tomcat]
+2024-05-28 10:32:30 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 10:32:30 - Initializing Spring embedded WebApplicationContext
+2024-05-28 10:32:30 - Root WebApplicationContext: initialization completed in 1568 ms
+2024-05-28 10:32:30 - HikariPool-1 - Starting...
+2024-05-28 10:32:30 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 30e83e0b-53a5-4c4d-8348-a49d28e6b856
+2024-05-28 10:32:30 - HikariPool-1 - Start completed.
+2024-05-28 10:32:30 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 10:32:30 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 10:32:31 - HHH000026: Second-level cache disabled
+2024-05-28 10:32:31 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 10:32:32 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 10:32:35 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 10:32:36 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 10:32:36 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 10:32:37 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 10:32:37 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 10:32:37 - Started RevTaskApplication in 9.421 seconds (process running for 9.991)
+2024-05-28 10:35:02 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 10:35:02 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 10:35:02 - Completed initialization in 3 ms
+2024-05-28 10:46:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 10:46:38 - HikariPool-1 - Shutdown initiated...
+2024-05-28 10:46:38 - HikariPool-1 - Shutdown completed.
+2024-05-28 10:46:47 - Starting RevTaskApplication using Java 22.0.1 with PID 3276 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 10:46:47 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 10:46:48 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 10:46:48 - Finished Spring Data repository scanning in 106 ms. Found 7 JPA repository interfaces.
+2024-05-28 10:46:48 - Tomcat initialized with port 8080 (http)
+2024-05-28 10:46:48 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 10:46:48 - Starting service [Tomcat]
+2024-05-28 10:46:48 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 10:46:48 - Initializing Spring embedded WebApplicationContext
+2024-05-28 10:46:48 - Root WebApplicationContext: initialization completed in 1606 ms
+2024-05-28 10:46:49 - HikariPool-1 - Starting...
+2024-05-28 10:46:49 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 498c405d-0230-400e-b98d-0359146a8e8b
+2024-05-28 10:46:49 - HikariPool-1 - Start completed.
+2024-05-28 10:46:49 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 10:46:49 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 10:46:49 - HHH000026: Second-level cache disabled
+2024-05-28 10:46:49 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 10:46:51 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 10:46:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 10:46:52 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 10:46:53 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 10:46:53 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 10:46:53 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 10:46:53 - Started RevTaskApplication in 7.135 seconds (process running for 7.792)
+2024-05-28 10:47:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 10:47:15 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 10:47:15 - Completed initialization in 2 ms
+2024-05-28 10:49:39 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 10:49:39 - HikariPool-1 - Shutdown initiated...
+2024-05-28 10:49:39 - HikariPool-1 - Shutdown completed.
+2024-05-28 10:49:46 - Starting RevTaskApplication using Java 22.0.1 with PID 7492 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 10:49:46 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 10:49:47 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 10:49:47 - Finished Spring Data repository scanning in 77 ms. Found 7 JPA repository interfaces.
+2024-05-28 10:49:48 - Tomcat initialized with port 8080 (http)
+2024-05-28 10:49:48 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 10:49:48 - Starting service [Tomcat]
+2024-05-28 10:49:48 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 10:49:48 - Initializing Spring embedded WebApplicationContext
+2024-05-28 10:49:48 - Root WebApplicationContext: initialization completed in 1577 ms
+2024-05-28 10:49:48 - HikariPool-1 - Starting...
+2024-05-28 10:49:48 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 7a528df8-8174-4e1c-a688-5a9776ff4a1b
+2024-05-28 10:49:48 - HikariPool-1 - Start completed.
+2024-05-28 10:49:48 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 10:49:48 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 10:49:48 - HHH000026: Second-level cache disabled
+2024-05-28 10:49:49 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 10:49:50 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 10:49:51 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 10:49:51 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 10:49:52 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 10:49:53 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 10:49:53 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 10:49:53 - Started RevTaskApplication in 7.207 seconds (process running for 7.738)
+2024-05-28 10:50:29 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 10:50:29 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 10:50:29 - Completed initialization in 3 ms
+2024-05-28 10:59:50 - Deactivating team member with id 1
+2024-05-28 10:59:50 - TeamMember not found with id 1
+2024-05-28 10:59:50 - Creating new team member with email user1@example.com
+2024-05-28 10:59:50 - Created team member with id 1
+2024-05-28 10:59:50 - Deactivating team member with id 1
+2024-05-28 10:59:50 - Deactivated team member with id 1
+2024-05-28 10:59:50 - Fetching all team members
+2024-05-28 10:59:50 - Fetched 2 team members
+2024-05-28 10:59:50 - Activating team member with id 1
+2024-05-28 10:59:50 - Activated team member with id 1
+2024-05-28 10:59:50 - Updating team member with id 1
+2024-05-28 10:59:50 - Updated email and role for team member with id 1
+2024-05-28 10:59:50 - Fetched updated team member with id 1
+2024-05-28 10:59:50 - Fetching team member with id 1
+2024-05-28 10:59:50 - Fetched team member with id 1
+2024-05-28 10:59:50 - Activating team member with id 1
+2024-05-28 10:59:50 - TeamMember not found with id 1
+2024-05-28 11:00:00 - Creating new admin with username admin1
+2024-05-28 11:00:00 - Created admin with id 1
+2024-05-28 11:00:00 - Fetching all admins
+2024-05-28 11:00:00 - Fetched 2 admins
+2024-05-28 11:00:00 - Fetching admin with id 1
+2024-05-28 11:00:10 - Updating project manager with ID: 1
+2024-05-28 11:00:10 - Updated project manager with ID: 1
+2024-05-28 11:00:10 - Creating new project manager: ProjectManager(id=null, username=John, password=password, email=john@example.com, projects=null)
+2024-05-28 11:00:10 - Created project manager: ProjectManager(id=null, username=John, password=password, email=john@example.com, projects=null)
+2024-05-28 11:00:10 - Fetching project manager by ID: 1
+2024-05-28 11:00:10 - Found project manager with ID: 1
+2024-05-28 11:00:10 - Fetching all project managers
+2024-05-28 11:00:10 - Found 2 project managers
+2024-05-28 11:00:22 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 11:00:22 - HikariPool-1 - Shutdown initiated...
+2024-05-28 11:00:22 - HikariPool-1 - Shutdown completed.
+2024-05-28 11:00:27 - Starting RevTaskApplication using Java 22.0.1 with PID 16064 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 11:00:27 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 11:00:28 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 11:00:28 - Finished Spring Data repository scanning in 78 ms. Found 7 JPA repository interfaces.
+2024-05-28 11:00:29 - Tomcat initialized with port 8080 (http)
+2024-05-28 11:00:29 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 11:00:29 - Starting service [Tomcat]
+2024-05-28 11:00:29 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 11:00:29 - Initializing Spring embedded WebApplicationContext
+2024-05-28 11:00:29 - Root WebApplicationContext: initialization completed in 1496 ms
+2024-05-28 11:00:29 - HikariPool-1 - Starting...
+2024-05-28 11:00:30 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 1529546d-0359-486d-b3e3-9ba5ba98aa92
+2024-05-28 11:00:30 - HikariPool-1 - Start completed.
+2024-05-28 11:00:30 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 11:00:30 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 11:00:30 - HHH000026: Second-level cache disabled
+2024-05-28 11:00:30 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 11:00:31 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 11:00:32 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 11:00:32 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 11:00:33 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 11:00:33 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 11:00:33 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 11:00:33 - Started RevTaskApplication in 6.359 seconds (process running for 6.889)
+2024-05-28 11:01:52 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 11:01:52 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 11:01:52 - Completed initialization in 2 ms
+2024-05-28 11:21:46 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m16s144ms595µs900ns).
+2024-05-28 11:22:17 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 11:22:17 - HikariPool-1 - Shutdown initiated...
+2024-05-28 11:22:17 - HikariPool-1 - Shutdown completed.
+2024-05-28 16:39:23 - Starting RevTaskApplication using Java 22.0.1 with PID 16356 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 16:39:23 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 16:39:24 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 16:39:24 - Finished Spring Data repository scanning in 88 ms. Found 7 JPA repository interfaces.
+2024-05-28 16:39:25 - Tomcat initialized with port 8080 (http)
+2024-05-28 16:39:25 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 16:39:25 - Starting service [Tomcat]
+2024-05-28 16:39:25 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 16:39:25 - Initializing Spring embedded WebApplicationContext
+2024-05-28 16:39:25 - Root WebApplicationContext: initialization completed in 1804 ms
+2024-05-28 16:39:25 - HikariPool-1 - Starting...
+2024-05-28 16:39:26 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 5b6df3a3-2cd0-49f1-902a-64ed4a721058
+2024-05-28 16:39:26 - HikariPool-1 - Start completed.
+2024-05-28 16:39:26 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 16:39:26 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 16:39:26 - HHH000026: Second-level cache disabled
+2024-05-28 16:39:27 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 16:39:28 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 16:39:32 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 16:39:32 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 16:39:33 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 16:39:33 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 16:39:34 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 16:39:34 - Started RevTaskApplication in 10.829 seconds (process running for 11.554)
+2024-05-28 16:47:45 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 16:47:45 - HikariPool-1 - Shutdown initiated...
+2024-05-28 16:47:45 - HikariPool-1 - Shutdown completed.
+2024-05-28 16:47:57 - Starting RevTaskApplication using Java 22.0.1 with PID 15332 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 16:47:57 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 16:47:58 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 16:47:58 - Finished Spring Data repository scanning in 96 ms. Found 7 JPA repository interfaces.
+2024-05-28 16:47:59 - Tomcat initialized with port 8080 (http)
+2024-05-28 16:47:59 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 16:47:59 - Starting service [Tomcat]
+2024-05-28 16:47:59 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 16:47:59 - Initializing Spring embedded WebApplicationContext
+2024-05-28 16:47:59 - Root WebApplicationContext: initialization completed in 1945 ms
+2024-05-28 16:47:59 - HikariPool-1 - Starting...
+2024-05-28 16:47:59 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 6e94f0da-96b1-443d-a790-f9c35cb902f6
+2024-05-28 16:47:59 - HikariPool-1 - Start completed.
+2024-05-28 16:47:59 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 16:48:00 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 16:48:00 - HHH000026: Second-level cache disabled
+2024-05-28 16:48:00 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 16:48:01 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 16:48:03 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 16:48:04 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 16:48:06 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 16:48:06 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 16:48:06 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 16:48:07 - Started RevTaskApplication in 10.344 seconds (process running for 10.954)
+2024-05-28 16:48:21 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 16:48:21 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 16:48:21 - Completed initialization in 3 ms
+2024-05-28 16:48:21 - Fetching all admins
+2024-05-28 16:48:21 - Fetched 3 admins
+2024-05-28 17:01:43 - Fetching all admins
+2024-05-28 17:01:43 - Fetched 3 admins
+2024-05-28 17:27:03 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 17:27:03 - HikariPool-1 - Shutdown initiated...
+2024-05-28 17:27:03 - HikariPool-1 - Shutdown completed.
+2024-05-28 17:27:13 - Starting RevTaskApplication using Java 22.0.1 with PID 20800 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 17:27:13 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 17:27:14 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 17:27:14 - Finished Spring Data repository scanning in 103 ms. Found 7 JPA repository interfaces.
+2024-05-28 17:27:15 - Tomcat initialized with port 8080 (http)
+2024-05-28 17:27:15 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 17:27:15 - Starting service [Tomcat]
+2024-05-28 17:27:15 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 17:27:15 - Initializing Spring embedded WebApplicationContext
+2024-05-28 17:27:15 - Root WebApplicationContext: initialization completed in 1727 ms
+2024-05-28 17:27:15 - HikariPool-1 - Starting...
+2024-05-28 17:27:16 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: ccd84e3d-159d-4f19-91d3-00a1543a7a49
+2024-05-28 17:27:16 - HikariPool-1 - Start completed.
+2024-05-28 17:27:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 17:27:16 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 17:27:16 - HHH000026: Second-level cache disabled
+2024-05-28 17:27:16 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 17:27:18 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 17:27:19 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 17:27:19 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 17:27:20 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 17:27:20 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 17:27:20 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 17:27:20 - Started RevTaskApplication in 7.616 seconds (process running for 8.234)
+2024-05-28 17:30:26 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 17:30:26 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 17:30:26 - Completed initialization in 3 ms
+2024-05-28 18:27:38 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m21s37ms756µs).
+2024-05-28 19:07:15 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m6s957ms372µs700ns).
+2024-05-28 19:14:27 - Fetching all projects
+2024-05-28 19:14:27 - Total projects found: 4
+2024-05-28 19:15:25 - Fetching all projects
+2024-05-28 19:15:25 - Total projects found: 4
+2024-05-28 19:15:33 - Fetching all projects
+2024-05-28 19:15:33 - Total projects found: 4
+2024-05-28 19:16:36 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 19:16:36 - HikariPool-1 - Shutdown initiated...
+2024-05-28 19:16:36 - HikariPool-1 - Shutdown completed.
+2024-05-28 19:16:43 - Starting RevTaskApplication using Java 22.0.1 with PID 15192 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 19:16:43 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 19:16:44 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 19:16:44 - Finished Spring Data repository scanning in 82 ms. Found 7 JPA repository interfaces.
+2024-05-28 19:16:45 - Tomcat initialized with port 8080 (http)
+2024-05-28 19:16:45 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 19:16:45 - Starting service [Tomcat]
+2024-05-28 19:16:45 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 19:16:45 - Initializing Spring embedded WebApplicationContext
+2024-05-28 19:16:45 - Root WebApplicationContext: initialization completed in 1486 ms
+2024-05-28 19:16:45 - HikariPool-1 - Starting...
+2024-05-28 19:16:45 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: eb2deaa2-1c82-450e-b02c-97468df79d09
+2024-05-28 19:16:45 - HikariPool-1 - Start completed.
+2024-05-28 19:16:45 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 19:16:45 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 19:16:46 - HHH000026: Second-level cache disabled
+2024-05-28 19:16:46 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 19:16:47 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 19:16:50 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 19:16:50 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 19:16:51 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 19:16:51 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 19:16:51 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 19:16:51 - Started RevTaskApplication in 8.59 seconds (process running for 9.169)
+2024-05-28 19:17:14 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 19:17:14 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 19:17:14 - Completed initialization in 2 ms
+2024-05-28 19:17:14 - Fetching all projects
+2024-05-28 19:17:14 - Total projects found: 4
+2024-05-28 19:21:43 - Fetching project with id: 1
+2024-05-28 19:21:43 - Project found with id: 1
+2024-05-28 19:28:49 - Fetching all projects
+2024-05-28 19:28:49 - Total projects found: 4
+2024-05-28 19:28:58 - Fetching all projects
+2024-05-28 19:28:58 - Total projects found: 4
+2024-05-28 19:54:18 - Fetching all projects
+2024-05-28 19:54:18 - Total projects found: 4
+2024-05-28 19:56:24 - Fetching all projects
+2024-05-28 19:56:24 - Total projects found: 4
+2024-05-28 19:56:37 - Fetching all projects
+2024-05-28 19:56:37 - Total projects found: 4
+2024-05-28 19:56:43 - Fetching all projects
+2024-05-28 19:56:43 - Total projects found: 4
+2024-05-28 19:56:53 - Fetching all projects
+2024-05-28 19:56:53 - Total projects found: 4
+2024-05-28 20:02:19 - Fetching all projects
+2024-05-28 20:02:19 - Total projects found: 4
+2024-05-28 20:02:20 - Fetching all projects
+2024-05-28 20:02:20 - Total projects found: 4
+2024-05-28 20:02:22 - Fetching all projects
+2024-05-28 20:02:22 - Total projects found: 4
+2024-05-28 20:02:25 - Fetching all projects
+2024-05-28 20:02:25 - Total projects found: 4
+2024-05-28 20:02:36 - Fetching all projects
+2024-05-28 20:02:36 - Total projects found: 4
+2024-05-28 20:02:48 - Fetching all projects
+2024-05-28 20:02:48 - Total projects found: 4
+2024-05-28 20:07:17 - Fetching all projects
+2024-05-28 20:07:17 - Total projects found: 4
+2024-05-28 20:16:01 - Fetching all projects
+2024-05-28 20:16:01 - Total projects found: 4
+2024-05-28 20:21:07 - Fetching all projects
+2024-05-28 20:21:08 - Total projects found: 4
+2024-05-28 20:23:00 - Fetching all tasks
+2024-05-28 20:23:00 - Fetched 2 tasks
+2024-05-28 20:24:02 - Fetching all projects
+2024-05-28 20:24:02 - Total projects found: 4
+2024-05-28 20:25:04 - Fetching all tasks
+2024-05-28 20:25:04 - Fetched 2 tasks
+2024-05-28 20:27:00 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 20:27:00 - HikariPool-1 - Shutdown initiated...
+2024-05-28 20:27:00 - HikariPool-1 - Shutdown completed.
+2024-05-28 20:27:08 - Starting RevTaskApplication using Java 22.0.1 with PID 16172 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-28 20:27:08 - No active profile set, falling back to 1 default profile: "default"
+2024-05-28 20:27:09 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-28 20:27:09 - Finished Spring Data repository scanning in 76 ms. Found 7 JPA repository interfaces.
+2024-05-28 20:27:10 - Tomcat initialized with port 8080 (http)
+2024-05-28 20:27:10 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-28 20:27:10 - Starting service [Tomcat]
+2024-05-28 20:27:10 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-28 20:27:10 - Initializing Spring embedded WebApplicationContext
+2024-05-28 20:27:10 - Root WebApplicationContext: initialization completed in 1668 ms
+2024-05-28 20:27:10 - HikariPool-1 - Starting...
+2024-05-28 20:27:10 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: d956a0a8-e7d4-48d3-ae9d-c6c55d37fe8d
+2024-05-28 20:27:10 - HikariPool-1 - Start completed.
+2024-05-28 20:27:11 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-28 20:27:11 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-28 20:27:11 - HHH000026: Second-level cache disabled
+2024-05-28 20:27:11 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-28 20:27:12 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-28 20:27:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-28 20:27:14 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-28 20:27:14 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-28 20:27:15 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-28 20:27:15 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-28 20:27:15 - Started RevTaskApplication in 7.124 seconds (process running for 7.705)
+2024-05-28 20:28:01 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-28 20:28:01 - Initializing Servlet 'dispatcherServlet'
+2024-05-28 20:28:01 - Completed initialization in 2 ms
+2024-05-28 20:28:01 - Fetching all projects
+2024-05-28 20:28:02 - Total projects found: 4
+2024-05-28 20:29:46 - Fetching all tasks
+2024-05-28 20:29:46 - Fetched 2 tasks
+2024-05-28 20:32:06 - Creating new task with title null
+2024-05-28 20:32:14 - Fetching all tasks
+2024-05-28 20:32:14 - Fetched 2 tasks
+2024-05-28 20:39:42 - Fetching all tasks
+2024-05-28 20:39:42 - Fetched 2 tasks
+2024-05-28 20:41:44 - Fetching all admins
+2024-05-28 20:41:44 - Fetched 3 admins
+2024-05-28 20:49:28 - Fetching task with id 2
+2024-05-28 20:49:28 - Fetched task with id 2
+2024-05-28 20:52:20 - Creating new task with title null
+2024-05-28 21:02:15 - Fetching all tasks
+2024-05-28 21:02:15 - Fetched 2 tasks
+2024-05-28 21:02:16 - Fetching all tasks
+2024-05-28 21:02:16 - Fetched 2 tasks
+2024-05-28 21:02:19 - Fetching all projects
+2024-05-28 21:02:19 - Total projects found: 4
+2024-05-28 21:02:21 - Fetching all tasks
+2024-05-28 21:02:21 - Fetched 2 tasks
+2024-05-28 21:04:02 - Fetching all tasks
+2024-05-28 21:04:02 - Fetched 2 tasks
+2024-05-28 21:04:04 - Fetching all tasks
+2024-05-28 21:04:04 - Fetched 2 tasks
+2024-05-28 21:04:09 - Creating new task with title null
+2024-05-28 21:04:24 - Fetching all tasks
+2024-05-28 21:04:24 - Fetched 2 tasks
+2024-05-28 21:04:29 - Fetching all projects
+2024-05-28 21:04:29 - Total projects found: 4
+2024-05-28 21:09:32 - Fetching all projects
+2024-05-28 21:09:32 - Total projects found: 4
+2024-05-28 21:09:36 - Fetching all tasks
+2024-05-28 21:09:36 - Fetched 2 tasks
+2024-05-28 21:21:22 - Fetching all tasks
+2024-05-28 21:21:22 - Fetched 2 tasks
+2024-05-28 21:21:25 - Fetching all projects
+2024-05-28 21:21:25 - Total projects found: 4
+2024-05-28 21:30:03 - Fetching all projects
+2024-05-28 21:30:03 - Total projects found: 4
+2024-05-28 21:30:09 - Fetching all projects
+2024-05-28 21:30:09 - Total projects found: 4
+2024-05-28 21:30:10 - Fetching all tasks
+2024-05-28 21:30:10 - Fetched 2 tasks
+2024-05-28 21:30:40 - Fetching all tasks
+2024-05-28 21:30:40 - Fetched 2 tasks
+2024-05-28 21:30:40 - Fetching all tasks
+2024-05-28 21:30:40 - Fetched 2 tasks
+2024-05-28 21:30:44 - Fetching all tasks
+2024-05-28 21:30:44 - Fetched 2 tasks
+2024-05-28 21:30:49 - Fetching all tasks
+2024-05-28 21:30:49 - Fetched 2 tasks
+2024-05-28 21:30:53 - Fetching all tasks
+2024-05-28 21:30:53 - Fetched 2 tasks
+2024-05-28 21:30:54 - Fetching all tasks
+2024-05-28 21:30:54 - Fetched 2 tasks
+2024-05-28 21:30:56 - Fetching all tasks
+2024-05-28 21:30:56 - Fetched 2 tasks
+2024-05-28 21:31:00 - Fetching all tasks
+2024-05-28 21:31:00 - Fetched 2 tasks
+2024-05-28 21:31:03 - Fetching all tasks
+2024-05-28 21:31:03 - Fetched 2 tasks
+2024-05-28 21:31:11 - Fetching all tasks
+2024-05-28 21:31:11 - Fetched 2 tasks
+2024-05-28 21:31:20 - Fetching all tasks
+2024-05-28 21:31:20 - Fetched 2 tasks
+2024-05-28 21:31:21 - Fetching all tasks
+2024-05-28 21:31:21 - Fetched 2 tasks
+2024-05-28 21:31:23 - Fetching all tasks
+2024-05-28 21:31:23 - Fetched 2 tasks
+2024-05-28 21:31:25 - Fetching all tasks
+2024-05-28 21:31:25 - Fetched 2 tasks
+2024-05-28 21:31:28 - Fetching all tasks
+2024-05-28 21:31:28 - Fetched 2 tasks
+2024-05-28 21:31:31 - Fetching all tasks
+2024-05-28 21:31:32 - Fetched 2 tasks
+2024-05-28 21:31:47 - Fetching all tasks
+2024-05-28 21:31:47 - Fetched 2 tasks
+2024-05-28 21:32:50 - Fetching all tasks
+2024-05-28 21:32:50 - Fetched 2 tasks
+2024-05-28 21:34:42 - Fetching all tasks
+2024-05-28 21:34:42 - Fetched 2 tasks
+2024-05-28 21:34:45 - Fetching all tasks
+2024-05-28 21:34:45 - Fetched 2 tasks
+2024-05-28 21:34:48 - Fetching all tasks
+2024-05-28 21:34:48 - Fetched 2 tasks
+2024-05-28 21:34:50 - Fetching all tasks
+2024-05-28 21:34:50 - Fetched 2 tasks
+2024-05-28 21:34:52 - Fetching all tasks
+2024-05-28 21:34:52 - Fetched 2 tasks
+2024-05-28 21:34:58 - Fetching all tasks
+2024-05-28 21:34:58 - Fetched 2 tasks
+2024-05-28 21:35:03 - Fetching all tasks
+2024-05-28 21:35:03 - Fetched 2 tasks
+2024-05-28 21:35:49 - Fetching all tasks
+2024-05-28 21:35:49 - Fetched 2 tasks
+2024-05-28 21:35:53 - Fetching all tasks
+2024-05-28 21:35:53 - Fetched 2 tasks
+2024-05-28 21:36:01 - Fetching all tasks
+2024-05-28 21:36:01 - Fetched 2 tasks
+2024-05-28 21:36:06 - Fetching all tasks
+2024-05-28 21:36:06 - Fetched 2 tasks
+2024-05-28 21:36:21 - Fetching all tasks
+2024-05-28 21:36:21 - Fetched 2 tasks
+2024-05-28 21:36:24 - Fetching all tasks
+2024-05-28 21:36:24 - Fetched 2 tasks
+2024-05-28 21:37:05 - Fetching all tasks
+2024-05-28 21:37:05 - Fetched 2 tasks
+2024-05-28 21:37:18 - Fetching all tasks
+2024-05-28 21:37:18 - Fetched 2 tasks
+2024-05-28 21:37:25 - Fetching all tasks
+2024-05-28 21:37:25 - Fetched 2 tasks
+2024-05-28 21:37:27 - Fetching all projects
+2024-05-28 21:37:27 - Total projects found: 4
+2024-05-28 21:37:33 - Fetching all tasks
+2024-05-28 21:37:33 - Fetched 2 tasks
+2024-05-28 21:37:35 - Fetching all tasks
+2024-05-28 21:37:35 - Fetched 2 tasks
+2024-05-28 21:37:36 - Fetching all projects
+2024-05-28 21:37:36 - Total projects found: 4
+2024-05-28 21:39:22 - Fetching all projects
+2024-05-28 21:39:22 - Total projects found: 4
+2024-05-28 21:40:42 - Fetching all projects
+2024-05-28 21:40:42 - Total projects found: 4
+2024-05-28 21:40:47 - Fetching all projects
+2024-05-28 21:40:47 - Total projects found: 4
+2024-05-28 21:43:15 - Fetching all projects
+2024-05-28 21:43:15 - Total projects found: 4
+2024-05-28 21:43:18 - Fetching all tasks
+2024-05-28 21:43:18 - Fetched 2 tasks
+2024-05-28 21:48:00 - Fetching all tasks
+2024-05-28 21:48:00 - Fetched 2 tasks
+2024-05-28 21:48:05 - Fetching all tasks
+2024-05-28 21:48:05 - Fetched 2 tasks
+2024-05-28 22:38:48 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m6s173ms523µs400ns).
+2024-05-28 22:39:17 - Fetching all tasks
+2024-05-28 22:39:17 - Fetched 2 tasks
+2024-05-28 22:39:21 - Fetching all projects
+2024-05-28 22:39:21 - Total projects found: 4
+2024-05-28 22:39:29 - Fetching all projects
+2024-05-28 22:39:29 - Total projects found: 4
+2024-05-28 22:40:40 - Fetching all tasks
+2024-05-28 22:40:40 - Fetched 2 tasks
+2024-05-28 22:46:28 - Fetching all projects
+2024-05-28 22:46:28 - Total projects found: 4
+2024-05-28 22:46:28 - Fetching all projects
+2024-05-28 22:46:28 - Total projects found: 4
+2024-05-28 22:46:33 - Fetching all tasks
+2024-05-28 22:46:33 - Fetched 2 tasks
+2024-05-28 22:46:49 - Fetching all tasks
+2024-05-28 22:46:49 - Fetched 2 tasks
+2024-05-28 22:46:50 - Fetching all tasks
+2024-05-28 22:46:50 - Fetching all projects
+2024-05-28 22:46:50 - Total projects found: 4
+2024-05-28 22:46:50 - Fetched 2 tasks
+2024-05-28 22:47:24 - Fetching all tasks
+2024-05-28 22:47:24 - Fetching all projects
+2024-05-28 22:47:24 - Fetched 2 tasks
+2024-05-28 22:47:24 - Total projects found: 4
+2024-05-28 23:26:14 - Fetching all tasks
+2024-05-28 23:26:14 - Fetching all projects
+2024-05-28 23:26:14 - Fetched 2 tasks
+2024-05-28 23:26:14 - Total projects found: 4
+2024-05-28 23:26:21 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m33s157ms960µs300ns).
+2024-05-28 23:34:50 - Fetching all projects
+2024-05-28 23:34:50 - Total projects found: 4
+2024-05-28 23:34:50 - Fetching all projects
+2024-05-28 23:34:50 - Total projects found: 4
+2024-05-28 23:34:53 - Fetching all projects
+2024-05-28 23:34:53 - Fetching all tasks
+2024-05-28 23:34:53 - Total projects found: 4
+2024-05-28 23:34:53 - Fetched 2 tasks
+2024-05-28 23:37:06 - Fetching all tasks
+2024-05-28 23:37:06 - Fetching all projects
+2024-05-28 23:37:06 - Fetched 2 tasks
+2024-05-28 23:37:06 - Total projects found: 4
+2024-05-28 23:37:07 - Fetching all projects
+2024-05-28 23:37:07 - Fetching all tasks
+2024-05-28 23:37:07 - Fetched 2 tasks
+2024-05-28 23:37:07 - Total projects found: 4
+2024-05-28 23:37:23 - Fetching all tasks
+2024-05-28 23:37:23 - Fetching all projects
+2024-05-28 23:37:23 - Fetched 2 tasks
+2024-05-28 23:37:23 - Total projects found: 4
+2024-05-28 23:37:28 - Fetching all tasks
+2024-05-28 23:37:28 - Fetching all projects
+2024-05-28 23:37:28 - Fetched 2 tasks
+2024-05-28 23:37:28 - Total projects found: 4
+2024-05-28 23:38:08 - Fetching all projects
+2024-05-28 23:38:08 - Fetching all tasks
+2024-05-28 23:38:08 - Fetched 2 tasks
+2024-05-28 23:38:08 - Total projects found: 4
+2024-05-28 23:38:15 - Fetching all projects
+2024-05-28 23:38:15 - Total projects found: 4
+2024-05-28 23:38:21 - Fetching all tasks
+2024-05-28 23:38:21 - Fetching all projects
+2024-05-28 23:38:21 - Fetched 2 tasks
+2024-05-28 23:38:21 - Total projects found: 4
+2024-05-28 23:38:33 - Fetching all projects
+2024-05-28 23:38:33 - Total projects found: 4
+2024-05-28 23:38:36 - Fetching all tasks
+2024-05-28 23:38:36 - Fetching all projects
+2024-05-28 23:38:36 - Fetched 2 tasks
+2024-05-28 23:38:36 - Total projects found: 4
+2024-05-28 23:39:14 - Fetching all tasks
+2024-05-28 23:39:14 - Fetching all projects
+2024-05-28 23:39:14 - Fetched 2 tasks
+2024-05-28 23:39:14 - Total projects found: 4
+2024-05-28 23:39:15 - Fetching all tasks
+2024-05-28 23:39:15 - Fetching all projects
+2024-05-28 23:39:15 - Fetched 2 tasks
+2024-05-28 23:39:15 - Total projects found: 4
+2024-05-28 23:39:16 - Fetching all tasks
+2024-05-28 23:39:16 - Fetching all projects
+2024-05-28 23:39:16 - Fetched 2 tasks
+2024-05-28 23:39:16 - Total projects found: 4
+2024-05-28 23:39:24 - Fetching all tasks
+2024-05-28 23:39:24 - Fetching all projects
+2024-05-28 23:39:24 - Fetched 2 tasks
+2024-05-28 23:39:24 - Total projects found: 4
+2024-05-28 23:39:31 - Fetching all projects
+2024-05-28 23:39:31 - Total projects found: 4
+2024-05-28 23:39:33 - Fetching all tasks
+2024-05-28 23:39:33 - Fetched 2 tasks
+2024-05-28 23:39:33 - Fetching all projects
+2024-05-28 23:39:33 - Total projects found: 4
+2024-05-28 23:39:34 - Fetching all projects
+2024-05-28 23:39:34 - Total projects found: 4
+2024-05-28 23:39:46 - Fetching all projects
+2024-05-28 23:39:46 - Total projects found: 4
+2024-05-28 23:39:46 - Fetching all projects
+2024-05-28 23:39:46 - Total projects found: 4
+2024-05-28 23:42:33 - Fetching all projects
+2024-05-28 23:42:33 - Total projects found: 4
+2024-05-28 23:42:33 - Fetching all projects
+2024-05-28 23:42:33 - Total projects found: 4
+2024-05-29 00:06:47 - Creating new project: Project(id=null, name=Backend, description=Create backend for RevTask with all endPoint, projectManager=ProjectManager(id=3, username=null, password=null, email=null, projects=null), teamMembers=null, tasks=[Task(id=2, title=null, description=null, status=null, priority=null, assignDate=null, dueDate=null, assignedTo=null, project=null), Task(id=3, title=null, description=null, status=null, priority=null, assignDate=null, dueDate=null, assignedTo=null, project=null), Task(id=3, title=null, description=null, status=null, priority=null, assignDate=null, dueDate=null, assignedTo=null, project=null)], client=Client(id=1, name=null, email=null, projects=null), projectDetail=null)
+2024-05-29 00:06:47 - Project created successfully: [FAILED toString()]
+2024-05-29 00:07:06 - Fetching project with id: 7
+2024-05-29 00:07:06 - Project found with id: 7
+2024-05-29 00:08:09 - Creating new project: Project(id=null, name=Backend, description=Create backend for RevTask with all endPoint, projectManager=ProjectManager(id=3, username=null, password=null, email=null, projects=null), teamMembers=null, tasks=null, client=Client(id=1, name=null, email=null, projects=null), projectDetail=null)
+2024-05-29 00:08:09 - Project created successfully: [FAILED toString()]
+2024-05-29 00:08:28 - Fetching project with id: 8
+2024-05-29 00:08:28 - Project found with id: 8
+2024-05-29 08:03:17 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h35m29s415ms685µs400ns).
+2024-05-29 08:20:02 - Fetching all projects
+2024-05-29 08:20:02 - Total projects found: 6
+2024-05-29 08:20:02 - Fetching all projects
+2024-05-29 08:20:02 - Total projects found: 6
+2024-05-29 08:20:13 - Fetching all projects
+2024-05-29 08:20:13 - Total projects found: 6
+2024-05-29 08:20:13 - Fetching all projects
+2024-05-29 08:20:13 - Total projects found: 6
+2024-05-29 08:20:14 - Fetching all projects
+2024-05-29 08:20:14 - Fetching all tasks
+2024-05-29 08:20:14 - Fetched 2 tasks
+2024-05-29 08:20:14 - Total projects found: 6
+2024-05-29 08:22:24 - Fetching all projects
+2024-05-29 08:22:24 - Fetching all tasks
+2024-05-29 08:22:24 - Fetched 2 tasks
+2024-05-29 08:22:24 - Total projects found: 6
+2024-05-29 08:22:25 - Fetching all projects
+2024-05-29 08:22:25 - Fetching all tasks
+2024-05-29 08:22:25 - Fetched 2 tasks
+2024-05-29 08:22:25 - Total projects found: 6
+2024-05-29 08:22:46 - Fetching all tasks
+2024-05-29 08:22:46 - Fetching all projects
+2024-05-29 08:22:46 - Fetched 2 tasks
+2024-05-29 08:22:46 - Total projects found: 6
+2024-05-29 08:23:24 - Fetching all projects
+2024-05-29 08:23:24 - Fetching all tasks
+2024-05-29 08:23:24 - Fetched 2 tasks
+2024-05-29 08:23:24 - Total projects found: 6
+2024-05-29 08:23:44 - Fetching all tasks
+2024-05-29 08:23:44 - Fetching all projects
+2024-05-29 08:23:44 - Fetched 2 tasks
+2024-05-29 08:23:44 - Total projects found: 6
+2024-05-29 08:23:47 - Fetching all projects
+2024-05-29 08:23:47 - Total projects found: 6
+2024-05-29 08:25:33 - Fetching all tasks
+2024-05-29 08:25:33 - Fetching all projects
+2024-05-29 08:25:33 - Fetched 2 tasks
+2024-05-29 08:25:33 - Total projects found: 6
+2024-05-29 08:25:34 - Fetching all projects
+2024-05-29 08:25:34 - Total projects found: 6
+2024-05-29 08:25:55 - Fetching all projects
+2024-05-29 08:25:55 - Total projects found: 6
+2024-05-29 08:37:55 - Fetching all projects
+2024-05-29 08:37:55 - Total projects found: 6
+2024-05-29 08:37:55 - Fetching all projects
+2024-05-29 08:37:55 - Total projects found: 6
+2024-05-29 08:38:20 - Fetching all projects
+2024-05-29 08:38:20 - Total projects found: 6
+2024-05-29 08:38:20 - Fetching all projects
+2024-05-29 08:38:20 - Total projects found: 6
+2024-05-29 08:38:21 - Fetching all projects
+2024-05-29 08:38:21 - Total projects found: 6
+2024-05-29 08:38:21 - Fetching all projects
+2024-05-29 08:38:21 - Total projects found: 6
+2024-05-29 08:38:39 - Fetching all projects
+2024-05-29 08:38:39 - Total projects found: 6
+2024-05-29 08:38:39 - Fetching all projects
+2024-05-29 08:38:39 - Total projects found: 6
+2024-05-29 08:38:44 - Fetching all projects
+2024-05-29 08:38:44 - Total projects found: 6
+2024-05-29 08:38:44 - Fetching all projects
+2024-05-29 08:38:44 - Total projects found: 6
+2024-05-29 08:38:53 - Fetching all projects
+2024-05-29 08:38:53 - Total projects found: 6
+2024-05-29 08:38:53 - Fetching all projects
+2024-05-29 08:38:53 - Total projects found: 6
+2024-05-29 08:39:06 - Fetching all projects
+2024-05-29 08:39:06 - Total projects found: 6
+2024-05-29 08:39:06 - Fetching all projects
+2024-05-29 08:39:06 - Total projects found: 6
+2024-05-29 08:39:14 - Fetching all projects
+2024-05-29 08:39:14 - Total projects found: 6
+2024-05-29 08:39:14 - Fetching all projects
+2024-05-29 08:39:14 - Total projects found: 6
+2024-05-29 08:39:22 - Fetching all projects
+2024-05-29 08:39:22 - Total projects found: 6
+2024-05-29 08:39:22 - Fetching all projects
+2024-05-29 08:39:22 - Total projects found: 6
+2024-05-29 08:39:28 - Fetching all projects
+2024-05-29 08:39:28 - Total projects found: 6
+2024-05-29 08:39:28 - Fetching all projects
+2024-05-29 08:39:28 - Total projects found: 6
+2024-05-29 08:39:34 - Fetching all projects
+2024-05-29 08:39:34 - Total projects found: 6
+2024-05-29 08:39:34 - Fetching all projects
+2024-05-29 08:39:34 - Total projects found: 6
+2024-05-29 08:39:41 - Fetching all projects
+2024-05-29 08:39:41 - Total projects found: 6
+2024-05-29 08:39:41 - Fetching all projects
+2024-05-29 08:39:41 - Total projects found: 6
+2024-05-29 08:39:45 - Fetching all projects
+2024-05-29 08:39:45 - Total projects found: 6
+2024-05-29 08:39:45 - Fetching all projects
+2024-05-29 08:39:45 - Total projects found: 6
+2024-05-29 08:39:50 - Fetching all projects
+2024-05-29 08:39:50 - Total projects found: 6
+2024-05-29 08:39:50 - Fetching all projects
+2024-05-29 08:39:50 - Total projects found: 6
+2024-05-29 08:39:51 - Fetching all projects
+2024-05-29 08:39:51 - Total projects found: 6
+2024-05-29 08:39:51 - Fetching all projects
+2024-05-29 08:39:51 - Total projects found: 6
+2024-05-29 08:39:57 - Fetching all projects
+2024-05-29 08:39:57 - Total projects found: 6
+2024-05-29 08:39:57 - Fetching all projects
+2024-05-29 08:39:57 - Total projects found: 6
+2024-05-29 08:39:59 - Fetching all projects
+2024-05-29 08:39:59 - Total projects found: 6
+2024-05-29 08:39:59 - Fetching all projects
+2024-05-29 08:39:59 - Total projects found: 6
+2024-05-29 08:40:01 - Fetching all projects
+2024-05-29 08:40:01 - Total projects found: 6
+2024-05-29 08:40:01 - Fetching all projects
+2024-05-29 08:40:01 - Total projects found: 6
+2024-05-29 08:40:04 - Fetching all projects
+2024-05-29 08:40:04 - Total projects found: 6
+2024-05-29 08:40:04 - Fetching all projects
+2024-05-29 08:40:04 - Total projects found: 6
+2024-05-29 08:40:07 - Fetching all projects
+2024-05-29 08:40:07 - Total projects found: 6
+2024-05-29 08:40:07 - Fetching all projects
+2024-05-29 08:40:07 - Total projects found: 6
+2024-05-29 08:40:08 - Fetching all projects
+2024-05-29 08:40:08 - Total projects found: 6
+2024-05-29 08:40:08 - Fetching all projects
+2024-05-29 08:40:08 - Total projects found: 6
+2024-05-29 08:40:15 - Fetching all projects
+2024-05-29 08:40:15 - Total projects found: 6
+2024-05-29 08:40:15 - Fetching all projects
+2024-05-29 08:40:15 - Total projects found: 6
+2024-05-29 08:40:24 - Fetching all projects
+2024-05-29 08:40:24 - Total projects found: 6
+2024-05-29 08:40:24 - Fetching all projects
+2024-05-29 08:40:24 - Total projects found: 6
+2024-05-29 08:40:25 - Fetching all projects
+2024-05-29 08:40:25 - Total projects found: 6
+2024-05-29 08:40:25 - Fetching all projects
+2024-05-29 08:40:25 - Total projects found: 6
+2024-05-29 08:40:26 - Fetching all projects
+2024-05-29 08:40:26 - Total projects found: 6
+2024-05-29 08:40:26 - Fetching all projects
+2024-05-29 08:40:26 - Total projects found: 6
+2024-05-29 08:40:28 - Fetching all projects
+2024-05-29 08:40:28 - Total projects found: 6
+2024-05-29 08:40:28 - Fetching all projects
+2024-05-29 08:40:28 - Total projects found: 6
+2024-05-29 08:40:31 - Fetching all projects
+2024-05-29 08:40:31 - Total projects found: 6
+2024-05-29 08:40:31 - Fetching all projects
+2024-05-29 08:40:31 - Total projects found: 6
+2024-05-29 08:40:32 - Fetching all projects
+2024-05-29 08:40:32 - Total projects found: 6
+2024-05-29 08:40:32 - Fetching all projects
+2024-05-29 08:40:32 - Total projects found: 6
+2024-05-29 08:40:33 - Fetching all projects
+2024-05-29 08:40:33 - Total projects found: 6
+2024-05-29 08:40:33 - Fetching all projects
+2024-05-29 08:40:33 - Total projects found: 6
+2024-05-29 08:40:39 - Fetching all projects
+2024-05-29 08:40:39 - Fetching all tasks
+2024-05-29 08:40:39 - Fetched 2 tasks
+2024-05-29 08:40:39 - Total projects found: 6
+2024-05-29 08:40:40 - Fetching all projects
+2024-05-29 08:40:40 - Total projects found: 6
+2024-05-29 08:40:40 - Fetching all projects
+2024-05-29 08:40:40 - Total projects found: 6
+2024-05-29 08:40:56 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-29 08:40:57 - HikariPool-1 - Shutdown initiated...
+2024-05-29 08:40:57 - HikariPool-1 - Shutdown completed.
+2024-05-29 08:41:02 - Starting RevTaskApplication using Java 22.0.1 with PID 6732 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-29 08:41:02 - No active profile set, falling back to 1 default profile: "default"
+2024-05-29 08:41:03 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-29 08:41:03 - Finished Spring Data repository scanning in 120 ms. Found 7 JPA repository interfaces.
+2024-05-29 08:41:04 - Tomcat initialized with port 8080 (http)
+2024-05-29 08:41:04 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-29 08:41:04 - Starting service [Tomcat]
+2024-05-29 08:41:04 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-29 08:41:04 - Initializing Spring embedded WebApplicationContext
+2024-05-29 08:41:04 - Root WebApplicationContext: initialization completed in 2388 ms
+2024-05-29 08:41:04 - HikariPool-1 - Starting...
+2024-05-29 08:41:05 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 613e0228-e095-4871-9b2e-52d0147035c3
+2024-05-29 08:41:05 - HikariPool-1 - Start completed.
+2024-05-29 08:41:05 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-29 08:41:05 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-29 08:41:05 - HHH000026: Second-level cache disabled
+2024-05-29 08:41:06 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-29 08:41:07 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-29 08:41:11 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-29 08:41:12 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-29 08:41:12 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-29 08:41:13 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-29 08:41:13 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-29 08:41:13 - Started RevTaskApplication in 11.712 seconds (process running for 12.334)
+2024-05-29 08:41:24 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-29 08:41:24 - Initializing Servlet 'dispatcherServlet'
+2024-05-29 08:41:24 - Completed initialization in 1 ms
+2024-05-29 08:41:24 - Fetching all projects
+2024-05-29 08:41:24 - Total projects found: 6
+2024-05-29 08:41:25 - Fetching all projects
+2024-05-29 08:41:25 - Total projects found: 6
+2024-05-29 08:44:07 - Fetching all projects
+2024-05-29 08:44:08 - Total projects found: 6
+2024-05-29 08:46:33 - Fetching all projects
+2024-05-29 08:46:33 - Total projects found: 6
+2024-05-29 08:46:33 - Fetching all projects
+2024-05-29 08:46:33 - Total projects found: 6
+2024-05-29 08:46:37 - Fetching all projects
+2024-05-29 08:46:37 - Total projects found: 6
+2024-05-29 08:46:37 - Fetching all projects
+2024-05-29 08:46:37 - Total projects found: 6
+2024-05-29 08:47:32 - Fetching all projects
+2024-05-29 08:47:32 - Total projects found: 6
+2024-05-29 08:47:32 - Fetching all projects
+2024-05-29 08:47:32 - Total projects found: 6
+2024-05-29 08:47:35 - Fetching all projects
+2024-05-29 08:47:35 - Total projects found: 6
+2024-05-29 08:47:35 - Fetching all projects
+2024-05-29 08:47:35 - Total projects found: 6
+2024-05-29 08:48:38 - Fetching all projects
+2024-05-29 08:48:38 - Total projects found: 6
+2024-05-29 08:48:38 - Fetching all projects
+2024-05-29 08:48:38 - Total projects found: 6
+2024-05-29 08:48:42 - Fetching all projects
+2024-05-29 08:48:42 - Total projects found: 6
+2024-05-29 08:48:42 - Fetching all projects
+2024-05-29 08:48:42 - Total projects found: 6
+2024-05-29 08:48:50 - Fetching all projects
+2024-05-29 08:48:50 - Total projects found: 6
+2024-05-29 08:48:50 - Fetching all projects
+2024-05-29 08:48:50 - Total projects found: 6
+2024-05-29 08:49:25 - Fetching all projects
+2024-05-29 08:49:25 - Total projects found: 6
+2024-05-29 08:49:25 - Fetching all projects
+2024-05-29 08:49:25 - Total projects found: 6
+2024-05-29 08:49:36 - Fetching all projects
+2024-05-29 08:49:36 - Total projects found: 6
+2024-05-29 08:49:36 - Fetching all projects
+2024-05-29 08:49:36 - Total projects found: 6
+2024-05-29 08:49:40 - Fetching all projects
+2024-05-29 08:49:40 - Total projects found: 6
+2024-05-29 08:49:40 - Fetching all projects
+2024-05-29 08:49:40 - Total projects found: 6
+2024-05-29 08:49:49 - Fetching all projects
+2024-05-29 08:49:49 - Total projects found: 6
+2024-05-29 08:49:49 - Fetching all projects
+2024-05-29 08:49:49 - Total projects found: 6
+2024-05-29 08:49:50 - Fetching all projects
+2024-05-29 08:49:50 - Total projects found: 6
+2024-05-29 08:49:51 - Fetching all projects
+2024-05-29 08:49:51 - Total projects found: 6
+2024-05-29 08:50:24 - Fetching all projects
+2024-05-29 08:50:24 - Total projects found: 6
+2024-05-29 08:50:24 - Fetching all projects
+2024-05-29 08:50:24 - Total projects found: 6
+2024-05-29 08:50:31 - Fetching all tasks
+2024-05-29 08:50:31 - Fetching all projects
+2024-05-29 08:50:31 - Total projects found: 6
+2024-05-29 08:50:31 - Fetched 2 tasks
+2024-05-29 08:51:15 - Fetching all tasks
+2024-05-29 08:51:15 - Fetching all projects
+2024-05-29 08:51:15 - Fetched 2 tasks
+2024-05-29 08:51:15 - Total projects found: 6
+2024-05-29 08:51:19 - Fetching all projects
+2024-05-29 08:51:19 - Total projects found: 6
+2024-05-29 08:51:19 - Fetching all projects
+2024-05-29 08:51:19 - Total projects found: 6
+2024-05-29 08:55:05 - Fetching all projects
+2024-05-29 08:55:05 - Total projects found: 6
+2024-05-29 08:55:05 - Fetching all projects
+2024-05-29 08:55:05 - Total projects found: 6
+2024-05-29 08:56:15 - Fetching all projects
+2024-05-29 08:56:15 - Total projects found: 6
+2024-05-29 08:56:15 - Fetching all projects
+2024-05-29 08:56:15 - Total projects found: 6
+2024-05-29 08:57:02 - Fetching all projects
+2024-05-29 08:57:02 - Total projects found: 6
+2024-05-29 08:57:02 - Fetching all projects
+2024-05-29 08:57:02 - Total projects found: 6
+2024-05-29 08:58:00 - Fetching all tasks
+2024-05-29 08:58:00 - Fetching all projects
+2024-05-29 08:58:00 - Fetched 2 tasks
+2024-05-29 08:58:00 - Total projects found: 6
+2024-05-29 08:58:35 - Fetching all projects
+2024-05-29 08:58:35 - Total projects found: 6
+2024-05-29 08:58:35 - Fetching all projects
+2024-05-29 08:58:35 - Total projects found: 6
+2024-05-29 08:58:46 - Fetching all projects
+2024-05-29 08:58:46 - Total projects found: 6
+2024-05-29 08:58:46 - Fetching all projects
+2024-05-29 08:58:46 - Total projects found: 6
+2024-05-29 08:59:25 - Fetching all projects
+2024-05-29 08:59:25 - Total projects found: 6
+2024-05-29 08:59:25 - Fetching all projects
+2024-05-29 08:59:25 - Total projects found: 6
+2024-05-29 09:01:44 - Fetching all projects
+2024-05-29 09:01:44 - Total projects found: 6
+2024-05-29 09:01:44 - Fetching all projects
+2024-05-29 09:01:44 - Total projects found: 6
+2024-05-29 09:03:46 - Fetching all projects
+2024-05-29 09:03:46 - Total projects found: 6
+2024-05-29 09:03:46 - Fetching all projects
+2024-05-29 09:03:46 - Total projects found: 6
+2024-05-29 09:04:11 - Fetching all projects
+2024-05-29 09:04:11 - Total projects found: 6
+2024-05-29 09:04:11 - Fetching all projects
+2024-05-29 09:04:11 - Total projects found: 6
+2024-05-29 09:05:54 - Fetching all projects
+2024-05-29 09:05:54 - Total projects found: 6
+2024-05-29 09:05:54 - Fetching all projects
+2024-05-29 09:05:54 - Total projects found: 6
+2024-05-29 09:06:30 - Fetching all projects
+2024-05-29 09:06:30 - Total projects found: 6
+2024-05-29 09:06:30 - Fetching all projects
+2024-05-29 09:06:30 - Total projects found: 6
+2024-05-29 09:06:47 - Fetching all projects
+2024-05-29 09:06:47 - Total projects found: 6
+2024-05-29 09:06:47 - Fetching all projects
+2024-05-29 09:06:47 - Total projects found: 6
+2024-05-29 09:11:18 - Fetching all projects
+2024-05-29 09:11:18 - Total projects found: 6
+2024-05-29 09:11:18 - Fetching all projects
+2024-05-29 09:11:18 - Total projects found: 6
+2024-05-29 09:11:19 - Fetching all projects
+2024-05-29 09:11:19 - Total projects found: 6
+2024-05-29 09:11:19 - Fetching all projects
+2024-05-29 09:11:19 - Total projects found: 6
+2024-05-29 09:12:38 - Fetching all projects
+2024-05-29 09:12:38 - Total projects found: 6
+2024-05-29 09:12:38 - Fetching all projects
+2024-05-29 09:12:38 - Total projects found: 6
+2024-05-29 09:12:46 - Fetching all projects
+2024-05-29 09:12:47 - Total projects found: 6
+2024-05-29 09:12:47 - Fetching all projects
+2024-05-29 09:12:47 - Total projects found: 6
+2024-05-29 09:12:58 - Fetching all projects
+2024-05-29 09:12:58 - Total projects found: 6
+2024-05-29 09:12:58 - Fetching all projects
+2024-05-29 09:12:58 - Total projects found: 6
+2024-05-29 09:13:03 - Fetching all projects
+2024-05-29 09:13:03 - Total projects found: 6
+2024-05-29 09:13:03 - Fetching all projects
+2024-05-29 09:13:03 - Total projects found: 6
+2024-05-29 09:13:17 - Fetching all projects
+2024-05-29 09:13:17 - Total projects found: 6
+2024-05-29 09:13:17 - Fetching all projects
+2024-05-29 09:13:17 - Total projects found: 6
+2024-05-29 09:15:49 - Fetching project with id: 1
+2024-05-29 09:15:49 - Project found with id: 1
+2024-05-29 09:18:36 - Fetching all projects
+2024-05-29 09:18:36 - Total projects found: 6
+2024-05-29 09:18:36 - Fetching all projects
+2024-05-29 09:18:36 - Total projects found: 6
+2024-05-29 09:19:05 - Fetching all projects
+2024-05-29 09:19:05 - Total projects found: 6
+2024-05-29 09:19:05 - Fetching all projects
+2024-05-29 09:19:05 - Total projects found: 6
+2024-05-29 09:19:26 - Fetching all projects
+2024-05-29 09:19:26 - Total projects found: 6
+2024-05-29 09:19:26 - Fetching all projects
+2024-05-29 09:19:26 - Total projects found: 6
+2024-05-29 09:19:27 - Fetching all projects
+2024-05-29 09:19:27 - Total projects found: 6
+2024-05-29 09:19:27 - Fetching all projects
+2024-05-29 09:19:27 - Total projects found: 6
+2024-05-29 09:19:29 - Fetching all projects
+2024-05-29 09:19:29 - Total projects found: 6
+2024-05-29 09:19:29 - Fetching all projects
+2024-05-29 09:19:29 - Total projects found: 6
+2024-05-29 09:19:38 - Fetching all projects
+2024-05-29 09:19:38 - Total projects found: 6
+2024-05-29 09:19:38 - Fetching all projects
+2024-05-29 09:19:38 - Total projects found: 6
+2024-05-29 09:19:47 - Fetching all projects
+2024-05-29 09:19:47 - Total projects found: 6
+2024-05-29 09:19:47 - Fetching all projects
+2024-05-29 09:19:47 - Total projects found: 6
+2024-05-29 09:19:52 - Fetching all projects
+2024-05-29 09:19:52 - Total projects found: 6
+2024-05-29 09:19:52 - Fetching all projects
+2024-05-29 09:19:52 - Total projects found: 6
+2024-05-29 09:19:55 - Fetching all projects
+2024-05-29 09:19:55 - Total projects found: 6
+2024-05-29 09:19:55 - Fetching all projects
+2024-05-29 09:19:55 - Total projects found: 6
+2024-05-29 09:20:02 - Fetching all projects
+2024-05-29 09:20:02 - Fetching all tasks
+2024-05-29 09:20:02 - Fetched 2 tasks
+2024-05-29 09:20:02 - Total projects found: 6
+2024-05-29 09:20:03 - Fetching all projects
+2024-05-29 09:20:03 - Total projects found: 6
+2024-05-29 09:20:03 - Fetching all projects
+2024-05-29 09:20:03 - Total projects found: 6
+2024-05-29 09:21:11 - Fetching all projects
+2024-05-29 09:21:11 - Total projects found: 6
+2024-05-29 09:21:11 - Fetching all projects
+2024-05-29 09:21:11 - Total projects found: 6
+2024-05-29 09:21:13 - Fetching all projects
+2024-05-29 09:21:13 - Total projects found: 6
+2024-05-29 09:21:13 - Fetching all projects
+2024-05-29 09:21:13 - Total projects found: 6
+2024-05-29 09:21:20 - Fetching all projects
+2024-05-29 09:21:20 - Total projects found: 6
+2024-05-29 09:21:20 - Fetching all projects
+2024-05-29 09:21:20 - Total projects found: 6
+2024-05-29 09:21:21 - Fetching all projects
+2024-05-29 09:21:21 - Fetching all tasks
+2024-05-29 09:21:21 - Fetched 2 tasks
+2024-05-29 09:21:21 - Total projects found: 6
+2024-05-29 09:21:25 - Fetching all projects
+2024-05-29 09:21:25 - Total projects found: 6
+2024-05-29 09:21:25 - Fetching all projects
+2024-05-29 09:21:25 - Total projects found: 6
+2024-05-29 09:21:27 - Fetching all tasks
+2024-05-29 09:21:27 - Fetching all projects
+2024-05-29 09:21:27 - Fetched 2 tasks
+2024-05-29 09:21:27 - Total projects found: 6
+2024-05-29 09:21:28 - Fetching all projects
+2024-05-29 09:21:28 - Total projects found: 6
+2024-05-29 09:21:28 - Fetching all projects
+2024-05-29 09:21:28 - Total projects found: 6
+2024-05-29 09:22:01 - Fetching all tasks
+2024-05-29 09:22:01 - Fetching all projects
+2024-05-29 09:22:01 - Fetched 2 tasks
+2024-05-29 09:22:01 - Total projects found: 6
+2024-05-29 09:22:02 - Fetching all projects
+2024-05-29 09:22:02 - Total projects found: 6
+2024-05-29 09:22:02 - Fetching all projects
+2024-05-29 09:22:02 - Total projects found: 6
+2024-05-29 09:22:04 - Fetching all tasks
+2024-05-29 09:22:04 - Fetched 2 tasks
+2024-05-29 09:22:04 - Fetching all projects
+2024-05-29 09:22:04 - Total projects found: 6
+2024-05-29 09:22:05 - Fetching all projects
+2024-05-29 09:22:05 - Total projects found: 6
+2024-05-29 09:22:05 - Fetching all projects
+2024-05-29 09:22:05 - Total projects found: 6
+2024-05-29 10:12:12 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m6s184ms966µs).
+2024-05-29 10:13:59 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s386ms787µs400ns).
+2024-05-29 10:15:03 - Fetching all projects
+2024-05-29 10:15:03 - Total projects found: 6
+2024-05-29 10:15:03 - Fetching all projects
+2024-05-29 10:15:03 - Total projects found: 6
+2024-05-29 10:15:07 - Fetching all projects
+2024-05-29 10:15:07 - Fetching all tasks
+2024-05-29 10:15:07 - Fetched 2 tasks
+2024-05-29 10:15:07 - Total projects found: 6
+2024-05-29 10:15:11 - Fetching all projects
+2024-05-29 10:15:11 - Total projects found: 6
+2024-05-29 10:15:11 - Fetching all projects
+2024-05-29 10:15:11 - Total projects found: 6
+2024-05-29 10:53:21 - Fetching all projects
+2024-05-29 10:53:21 - Total projects found: 6
+2024-05-29 10:53:21 - Fetching all projects
+2024-05-29 10:53:21 - Total projects found: 6
+2024-05-29 10:53:23 - Fetching all projects
+2024-05-29 10:53:23 - Fetching all tasks
+2024-05-29 10:53:23 - Total projects found: 6
+2024-05-29 10:53:23 - Fetched 2 tasks
+2024-05-29 10:54:31 - Fetching all projects
+2024-05-29 10:54:31 - Total projects found: 6
+2024-05-29 10:54:31 - Fetching all projects
+2024-05-29 10:54:31 - Total projects found: 6
+2024-05-29 11:05:08 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m8s378ms118µs200ns).
+2024-05-29 11:07:02 - Fetching all projects
+2024-05-29 11:07:02 - Total projects found: 6
+2024-05-29 11:07:02 - Fetching all projects
+2024-05-29 11:07:02 - Total projects found: 6
+2024-05-29 12:01:56 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m47s215ms848µs700ns).
+2024-05-29 12:02:00 - Fetching all projects
+2024-05-29 12:02:00 - Total projects found: 6
+2024-05-29 12:02:00 - Fetching all projects
+2024-05-29 12:02:00 - Total projects found: 6
+2024-05-29 12:10:42 - Fetching all projects
+2024-05-29 12:10:42 - Total projects found: 6
+2024-05-29 12:10:43 - Fetching all projects
+2024-05-29 12:10:43 - Total projects found: 6
+2024-05-29 12:10:52 - Fetching all tasks
+2024-05-29 12:10:52 - Fetching all projects
+2024-05-29 12:10:52 - Fetched 2 tasks
+2024-05-29 12:10:52 - Total projects found: 6
+2024-05-29 12:11:57 - Fetching all tasks
+2024-05-29 12:11:57 - Fetched 2 tasks
+2024-05-29 12:12:13 - Fetching all tasks
+2024-05-29 12:12:13 - Fetching all projects
+2024-05-29 12:12:13 - Fetched 2 tasks
+2024-05-29 12:12:13 - Total projects found: 6
+2024-05-29 12:20:39 - Fetching all projects
+2024-05-29 12:20:39 - Fetching all tasks
+2024-05-29 12:20:39 - Fetched 2 tasks
+2024-05-29 12:20:39 - Total projects found: 6
+2024-05-29 12:22:16 - Fetching all tasks
+2024-05-29 12:22:16 - Fetching all projects
+2024-05-29 12:22:17 - Fetched 2 tasks
+2024-05-29 12:22:17 - Total projects found: 6
+2024-05-29 12:22:24 - Fetching all projects
+2024-05-29 12:22:24 - Fetching all tasks
+2024-05-29 12:22:24 - Fetched 2 tasks
+2024-05-29 12:22:24 - Total projects found: 6
+2024-05-29 12:23:11 - Fetching all projects
+2024-05-29 12:23:11 - Fetching all tasks
+2024-05-29 12:23:11 - Fetched 2 tasks
+2024-05-29 12:23:11 - Total projects found: 6
+2024-05-29 12:23:51 - Fetching all tasks
+2024-05-29 12:23:51 - Fetched 2 tasks
+2024-05-29 12:39:45 - Fetching all tasks
+2024-05-29 12:39:45 - Fetching all projects
+2024-05-29 12:39:45 - Fetched 2 tasks
+2024-05-29 12:39:45 - Total projects found: 6
+2024-05-29 12:40:07 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m9s861ms825µs500ns).
+2024-05-29 13:09:04 - Fetching all projects
+2024-05-29 13:09:04 - Total projects found: 6
+2024-05-29 13:09:04 - Fetching all projects
+2024-05-29 13:09:04 - Total projects found: 6
+2024-05-29 13:09:05 - Fetching all tasks
+2024-05-29 13:09:05 - Fetching all projects
+2024-05-29 13:09:05 - Total projects found: 6
+2024-05-29 13:09:05 - Fetched 2 tasks
+2024-05-29 13:09:50 - Fetching all tasks
+2024-05-29 13:09:50 - Fetching all projects
+2024-05-29 13:09:50 - Fetched 2 tasks
+2024-05-29 13:09:50 - Total projects found: 6
+2024-05-29 13:10:40 - Fetching all tasks
+2024-05-29 13:10:40 - Fetched 2 tasks
+2024-05-29 13:10:46 - Fetching all tasks
+2024-05-29 13:10:46 - Fetched 2 tasks
+2024-05-29 13:10:57 - Fetching all projects
+2024-05-29 13:10:57 - Fetching all tasks
+2024-05-29 13:10:57 - Fetched 2 tasks
+2024-05-29 13:10:57 - Total projects found: 6
+2024-05-29 13:14:54 - Fetching all projects
+2024-05-29 13:14:54 - Fetching all tasks
+2024-05-29 13:14:54 - Fetched 2 tasks
+2024-05-29 13:14:54 - Total projects found: 6
+2024-05-29 13:15:23 - Fetching all tasks
+2024-05-29 13:15:23 - Fetching all projects
+2024-05-29 13:15:23 - Fetched 2 tasks
+2024-05-29 13:15:23 - Total projects found: 6
+2024-05-29 13:50:35 - Fetching all projects
+2024-05-29 13:50:35 - Total projects found: 6
+2024-05-29 13:50:35 - Fetching all projects
+2024-05-29 13:50:35 - Total projects found: 6
+2024-05-29 13:50:40 - Fetching all projects
+2024-05-29 13:50:40 - Total projects found: 6
+2024-05-29 13:50:40 - Fetching all projects
+2024-05-29 13:50:40 - Total projects found: 6
+2024-05-29 13:51:40 - Fetching all tasks
+2024-05-29 13:51:40 - Fetching all projects
+2024-05-29 13:51:40 - Fetched 2 tasks
+2024-05-29 13:51:40 - Total projects found: 6
+2024-05-29 13:51:54 - Fetching all projects
+2024-05-29 13:51:54 - Total projects found: 6
+2024-05-29 13:51:54 - Fetching all projects
+2024-05-29 13:51:54 - Total projects found: 6
+2024-05-29 13:54:49 - Fetching all projects
+2024-05-29 13:54:49 - Total projects found: 6
+2024-05-29 13:54:49 - Fetching all projects
+2024-05-29 13:54:49 - Total projects found: 6
+2024-05-29 13:54:49 - Fetching all tasks
+2024-05-29 13:54:49 - Fetching all projects
+2024-05-29 13:54:49 - Fetched 2 tasks
+2024-05-29 13:54:49 - Total projects found: 6
+2024-05-29 13:54:54 - Fetching all projects
+2024-05-29 13:54:54 - Total projects found: 6
+2024-05-29 13:54:54 - Fetching all projects
+2024-05-29 13:54:54 - Total projects found: 6
+2024-05-29 13:54:54 - Fetching all tasks
+2024-05-29 13:54:54 - Fetching all projects
+2024-05-29 13:54:54 - Fetched 2 tasks
+2024-05-29 13:54:54 - Total projects found: 6
+2024-05-29 13:55:02 - Fetching all projects
+2024-05-29 13:55:02 - Total projects found: 6
+2024-05-29 13:55:02 - Fetching all projects
+2024-05-29 13:55:02 - Total projects found: 6
+2024-05-29 13:55:02 - Fetching all tasks
+2024-05-29 13:55:02 - Fetching all projects
+2024-05-29 13:55:02 - Fetched 2 tasks
+2024-05-29 13:55:02 - Total projects found: 6
+2024-05-29 13:55:06 - Fetching all projects
+2024-05-29 13:55:06 - Total projects found: 6
+2024-05-29 13:55:06 - Fetching all projects
+2024-05-29 13:55:06 - Total projects found: 6
+2024-05-29 13:55:06 - Fetching all projects
+2024-05-29 13:55:06 - Fetching all tasks
+2024-05-29 13:55:06 - Fetched 2 tasks
+2024-05-29 13:55:06 - Total projects found: 6
+2024-05-29 13:55:17 - Fetching all projects
+2024-05-29 13:55:17 - Total projects found: 6
+2024-05-29 13:55:17 - Fetching all projects
+2024-05-29 13:55:17 - Total projects found: 6
+2024-05-29 13:55:49 - Fetching all projects
+2024-05-29 13:55:49 - Total projects found: 6
+2024-05-29 13:55:49 - Fetching all projects
+2024-05-29 13:55:49 - Total projects found: 6
+2024-05-29 13:55:49 - Fetching all projects
+2024-05-29 13:55:49 - Total projects found: 6
+2024-05-29 13:55:49 - Fetching all projects
+2024-05-29 13:55:49 - Total projects found: 6
+2024-05-29 14:10:07 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-29 14:10:08 - HikariPool-1 - Shutdown initiated...
+2024-05-29 14:10:08 - HikariPool-1 - Shutdown completed.
+2024-05-29 14:11:21 - Starting RevTaskApplication using Java 22.0.1 with PID 18060 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-29 14:11:21 - No active profile set, falling back to 1 default profile: "default"
+2024-05-29 14:11:22 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-29 14:11:23 - Finished Spring Data repository scanning in 169 ms. Found 7 JPA repository interfaces.
+2024-05-29 14:11:24 - Tomcat initialized with port 8080 (http)
+2024-05-29 14:11:24 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-29 14:11:24 - Starting service [Tomcat]
+2024-05-29 14:11:24 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-29 14:11:24 - Initializing Spring embedded WebApplicationContext
+2024-05-29 14:11:24 - Root WebApplicationContext: initialization completed in 3222 ms
+2024-05-29 14:11:24 - HikariPool-1 - Starting...
+2024-05-29 14:11:25 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: d460b4a5-5344-42a9-9d84-c28805d91c5b
+2024-05-29 14:11:25 - HikariPool-1 - Start completed.
+2024-05-29 14:11:25 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-29 14:11:26 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-29 14:11:26 - HHH000026: Second-level cache disabled
+2024-05-29 14:11:26 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-29 14:11:28 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-29 14:11:31 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-29 14:11:32 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-29 14:11:34 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-29 14:11:35 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-29 14:11:35 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-29 14:11:35 - Started RevTaskApplication in 15.153 seconds (process running for 16.175)
+2024-05-29 14:12:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-29 14:12:31 - Initializing Servlet 'dispatcherServlet'
+2024-05-29 14:12:31 - Completed initialization in 4 ms
+2024-05-29 14:12:31 - Fetching all tasks
+2024-05-29 14:12:31 - Fetched 2 tasks
+2024-05-29 14:12:57 - Fetching tasks for project with id 1
+2024-05-29 14:13:40 - Fetching all projects
+2024-05-29 14:13:40 - Total projects found: 6
+2024-05-29 14:13:40 - Fetching all projects
+2024-05-29 14:13:40 - Total projects found: 6
+2024-05-29 14:14:39 - Fetching all projects
+2024-05-29 14:14:39 - Total projects found: 6
+2024-05-29 14:14:39 - Fetching all projects
+2024-05-29 14:14:39 - Total projects found: 6
+2024-05-29 14:18:52 - Fetching all projects
+2024-05-29 14:18:53 - Total projects found: 6
+2024-05-29 14:18:54 - Fetching all projects
+2024-05-29 14:18:54 - Total projects found: 6
+2024-05-29 14:18:55 - Fetching all projects
+2024-05-29 14:18:55 - Total projects found: 6
+2024-05-29 14:18:55 - Fetching all projects
+2024-05-29 14:18:55 - Total projects found: 6
+2024-05-29 14:18:56 - Fetching all projects
+2024-05-29 14:18:56 - Total projects found: 6
+2024-05-29 14:19:44 - Fetching all projects
+2024-05-29 14:19:44 - Total projects found: 6
+2024-05-29 14:21:28 - Fetching all projects
+2024-05-29 14:21:28 - Total projects found: 6
+2024-05-29 14:21:30 - Fetching all projects
+2024-05-29 14:21:30 - Total projects found: 6
+2024-05-29 14:21:40 - Fetching all projects
+2024-05-29 14:21:40 - Total projects found: 6
+2024-05-29 14:21:40 - Fetching all projects
+2024-05-29 14:21:40 - Total projects found: 6
+2024-05-29 14:21:41 - Fetching all projects
+2024-05-29 14:21:41 - Total projects found: 6
+2024-05-29 14:31:15 - Fetching all projects
+2024-05-29 14:31:15 - Total projects found: 6
+2024-05-29 14:31:16 - Fetching all projects
+2024-05-29 14:31:17 - Total projects found: 6
+2024-05-29 14:31:17 - Fetching all projects
+2024-05-29 14:31:17 - Total projects found: 6
+2024-05-29 14:31:18 - Fetching all projects
+2024-05-29 14:31:18 - Total projects found: 6
+2024-05-29 14:31:19 - Fetching all projects
+2024-05-29 14:31:19 - Total projects found: 6
+2024-05-29 14:31:19 - Fetching all projects
+2024-05-29 14:31:19 - Total projects found: 6
+2024-05-29 14:32:50 - Fetching all projects
+2024-05-29 14:32:51 - Total projects found: 6
+2024-05-29 14:32:51 - Fetching all projects
+2024-05-29 14:32:51 - Total projects found: 6
+2024-05-29 14:32:52 - Fetching all projects
+2024-05-29 14:32:52 - Total projects found: 6
+2024-05-29 14:32:53 - Fetching all projects
+2024-05-29 14:32:54 - Total projects found: 6
+2024-05-29 14:32:54 - Fetching all projects
+2024-05-29 14:32:54 - Total projects found: 6
+2024-05-29 14:32:54 - Fetching all projects
+2024-05-29 14:32:54 - Total projects found: 6
+2024-05-29 14:36:22 - Fetching all projects
+2024-05-29 14:36:22 - Total projects found: 6
+2024-05-29 14:36:22 - Fetching all projects
+2024-05-29 14:36:22 - Total projects found: 6
+2024-05-29 14:36:23 - Fetching all projects
+2024-05-29 14:36:23 - Total projects found: 6
+2024-05-29 14:36:41 - Fetching all projects
+2024-05-29 14:36:41 - Total projects found: 6
+2024-05-29 14:36:43 - Fetching all projects
+2024-05-29 14:36:43 - Total projects found: 6
+2024-05-29 14:37:23 - Fetching all projects
+2024-05-29 14:37:23 - Total projects found: 6
+2024-05-29 14:37:51 - Fetching all projects
+2024-05-29 14:37:51 - Total projects found: 6
+2024-05-29 14:37:51 - Fetching all projects
+2024-05-29 14:37:51 - Total projects found: 6
+2024-05-29 14:37:52 - Fetching all projects
+2024-05-29 14:37:52 - Total projects found: 6
+2024-05-29 14:37:52 - Fetching all projects
+2024-05-29 14:37:52 - Total projects found: 6
+2024-05-29 14:40:53 - Fetching all projects
+2024-05-29 14:40:53 - Total projects found: 6
+2024-05-29 14:40:53 - Fetching all projects
+2024-05-29 14:40:53 - Total projects found: 6
+2024-05-29 14:40:54 - Fetching all projects
+2024-05-29 14:40:54 - Total projects found: 6
+2024-05-29 14:40:54 - Fetching all projects
+2024-05-29 14:40:54 - Total projects found: 6
+2024-05-29 14:40:54 - Fetching all projects
+2024-05-29 14:40:54 - Total projects found: 6
+2024-05-29 14:40:54 - Fetching all projects
+2024-05-29 14:40:54 - Total projects found: 6
+2024-05-29 14:40:54 - Fetching all projects
+2024-05-29 14:40:55 - Total projects found: 6
+2024-05-29 14:40:55 - Fetching all projects
+2024-05-29 14:40:55 - Total projects found: 6
+2024-05-29 15:22:52 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m26s601ms755µs200ns).
+2024-05-29 15:28:29 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m6s514ms464µs700ns).
+2024-05-29 15:29:34 - Fetching all projects
+2024-05-29 15:29:34 - Total projects found: 6
+2024-05-29 15:29:34 - Fetching all projects
+2024-05-29 15:29:35 - Total projects found: 6
+2024-05-29 16:36:22 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m17s809ms123µs600ns).
+2024-05-29 16:51:06 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m44s493µs100ns).
+2024-05-29 16:53:58 - Fetching all projects
+2024-05-29 16:53:58 - Total projects found: 6
+2024-05-29 16:53:58 - Fetching all projects
+2024-05-29 16:53:58 - Total projects found: 6
+2024-05-29 16:53:59 - Fetching all projects
+2024-05-29 16:53:59 - Total projects found: 6
+2024-05-29 16:53:59 - Fetching all projects
+2024-05-29 16:53:59 - Total projects found: 6
+2024-05-29 16:54:23 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-29 16:54:23 - HikariPool-1 - Shutdown initiated...
+2024-05-29 16:54:23 - HikariPool-1 - Shutdown completed.
+2024-05-29 16:54:29 - Starting RevTaskApplication using Java 22.0.1 with PID 22456 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-29 16:54:29 - No active profile set, falling back to 1 default profile: "default"
+2024-05-29 16:54:30 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-29 16:54:31 - Finished Spring Data repository scanning in 170 ms. Found 7 JPA repository interfaces.
+2024-05-29 16:54:32 - Tomcat initialized with port 8080 (http)
+2024-05-29 16:54:32 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-29 16:54:32 - Starting service [Tomcat]
+2024-05-29 16:54:32 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-29 16:54:32 - Initializing Spring embedded WebApplicationContext
+2024-05-29 16:54:32 - Root WebApplicationContext: initialization completed in 2847 ms
+2024-05-29 16:54:32 - HikariPool-1 - Starting...
+2024-05-29 16:54:33 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 36140eb0-fa84-43d2-8b00-109a5d0c0eb4
+2024-05-29 16:54:33 - HikariPool-1 - Start completed.
+2024-05-29 16:54:33 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-29 16:54:33 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-29 16:54:33 - HHH000026: Second-level cache disabled
+2024-05-29 16:54:34 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-29 16:54:36 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-29 16:54:38 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-29 16:54:39 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-29 16:54:40 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-29 16:54:40 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-29 16:54:40 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-29 16:54:40 - Started RevTaskApplication in 12.322 seconds (process running for 13.221)
+2024-05-29 16:54:42 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-29 16:54:42 - Initializing Servlet 'dispatcherServlet'
+2024-05-29 16:54:42 - Completed initialization in 1 ms
+2024-05-29 16:54:42 - Fetching all projects
+2024-05-29 16:54:42 - Total projects found: 6
+2024-05-29 16:54:42 - Fetching all projects
+2024-05-29 16:54:42 - Total projects found: 6
+2024-05-29 16:54:44 - Fetching all projects
+2024-05-29 16:54:44 - Total projects found: 6
+2024-05-29 16:54:44 - Fetching all projects
+2024-05-29 16:54:44 - Total projects found: 6
+2024-05-29 16:55:39 - Fetching all projects
+2024-05-29 16:55:39 - Total projects found: 6
+2024-05-29 16:55:39 - Fetching all projects
+2024-05-29 16:55:39 - Total projects found: 6
+2024-05-29 16:55:41 - Fetching all projects
+2024-05-29 16:55:41 - Fetching all tasks
+2024-05-29 16:55:41 - Fetched 2 tasks
+2024-05-29 16:55:41 - Total projects found: 6
+2024-05-29 16:55:42 - Fetching all projects
+2024-05-29 16:55:42 - Total projects found: 6
+2024-05-29 16:55:42 - Fetching all projects
+2024-05-29 16:55:42 - Total projects found: 6
+2024-05-29 16:55:50 - Fetching all tasks
+2024-05-29 16:55:50 - Fetching all projects
+2024-05-29 16:55:50 - Fetched 2 tasks
+2024-05-29 16:55:50 - Total projects found: 6
+2024-05-29 16:55:53 - Fetching all projects
+2024-05-29 16:55:53 - Total projects found: 6
+2024-05-29 16:55:53 - Fetching all projects
+2024-05-29 16:55:53 - Total projects found: 6
+2024-05-29 16:55:54 - Fetching all projects
+2024-05-29 16:55:54 - Total projects found: 6
+2024-05-29 16:55:54 - Fetching all projects
+2024-05-29 16:55:54 - Total projects found: 6
+2024-05-29 16:55:55 - Fetching all projects
+2024-05-29 16:55:55 - Total projects found: 6
+2024-05-29 16:55:55 - Fetching all projects
+2024-05-29 16:55:55 - Total projects found: 6
+2024-05-29 16:57:37 - Fetching all projects
+2024-05-29 16:57:37 - Total projects found: 6
+2024-05-29 16:57:37 - Fetching all projects
+2024-05-29 16:57:37 - Total projects found: 6
+2024-05-29 16:57:39 - Fetching all tasks
+2024-05-29 16:57:39 - Fetching all projects
+2024-05-29 16:57:39 - Fetched 2 tasks
+2024-05-29 16:57:39 - Total projects found: 6
+2024-05-29 16:57:42 - Fetching all projects
+2024-05-29 16:57:42 - Total projects found: 6
+2024-05-29 16:57:42 - Fetching all projects
+2024-05-29 16:57:42 - Total projects found: 6
+2024-05-29 16:57:44 - Fetching all projects
+2024-05-29 16:57:44 - Total projects found: 6
+2024-05-29 16:57:44 - Fetching all projects
+2024-05-29 16:57:44 - Total projects found: 6
+2024-05-29 16:57:45 - Fetching all projects
+2024-05-29 16:57:45 - Total projects found: 6
+2024-05-29 16:57:45 - Fetching all projects
+2024-05-29 16:57:45 - Total projects found: 6
+2024-05-29 16:57:47 - Fetching all projects
+2024-05-29 16:57:47 - Total projects found: 6
+2024-05-29 16:57:47 - Fetching all projects
+2024-05-29 16:57:47 - Total projects found: 6
+2024-05-29 16:57:48 - Fetching all tasks
+2024-05-29 16:57:48 - Fetching all projects
+2024-05-29 16:57:48 - Fetched 2 tasks
+2024-05-29 16:57:48 - Total projects found: 6
+2024-05-29 16:57:51 - Fetching all projects
+2024-05-29 16:57:51 - Total projects found: 6
+2024-05-29 16:57:51 - Fetching all projects
+2024-05-29 16:57:51 - Total projects found: 6
+2024-05-29 16:57:52 - Fetching all projects
+2024-05-29 16:57:52 - Total projects found: 6
+2024-05-29 16:57:52 - Fetching all projects
+2024-05-29 16:57:52 - Total projects found: 6
+2024-05-29 16:57:53 - Fetching all projects
+2024-05-29 16:57:53 - Total projects found: 6
+2024-05-29 16:57:53 - Fetching all projects
+2024-05-29 16:57:53 - Total projects found: 6
+2024-05-29 16:57:54 - Fetching all tasks
+2024-05-29 16:57:54 - Fetching all projects
+2024-05-29 16:57:54 - Fetched 2 tasks
+2024-05-29 16:57:54 - Total projects found: 6
+2024-05-29 16:57:54 - Fetching all projects
+2024-05-29 16:57:54 - Total projects found: 6
+2024-05-29 16:57:54 - Fetching all projects
+2024-05-29 16:57:54 - Total projects found: 6
+2024-05-29 16:57:54 - Fetching all projects
+2024-05-29 16:57:54 - Total projects found: 6
+2024-05-29 16:57:54 - Fetching all projects
+2024-05-29 16:57:54 - Total projects found: 6
+2024-05-29 16:57:59 - Fetching all projects
+2024-05-29 16:57:59 - Total projects found: 6
+2024-05-29 16:57:59 - Fetching all projects
+2024-05-29 16:57:59 - Total projects found: 6
+2024-05-29 16:58:01 - Fetching all projects
+2024-05-29 16:58:01 - Total projects found: 6
+2024-05-29 16:58:01 - Fetching all projects
+2024-05-29 16:58:01 - Total projects found: 6
+2024-05-29 17:03:10 - Fetching all projects
+2024-05-29 17:03:10 - Total projects found: 6
+2024-05-29 17:03:10 - Fetching all projects
+2024-05-29 17:03:10 - Total projects found: 6
+2024-05-29 17:03:41 - Fetching all projects
+2024-05-29 17:03:41 - Total projects found: 6
+2024-05-29 17:03:41 - Fetching all projects
+2024-05-29 17:03:41 - Total projects found: 6
+2024-05-29 17:03:43 - Fetching all projects
+2024-05-29 17:03:43 - Total projects found: 6
+2024-05-29 17:03:43 - Fetching all projects
+2024-05-29 17:03:43 - Total projects found: 6
+2024-05-29 17:03:44 - Fetching all projects
+2024-05-29 17:03:45 - Total projects found: 6
+2024-05-29 17:03:45 - Fetching all projects
+2024-05-29 17:03:45 - Total projects found: 6
+2024-05-29 17:14:11 - Fetching all projects
+2024-05-29 17:14:11 - Fetching all tasks
+2024-05-29 17:14:11 - Fetched 2 tasks
+2024-05-29 17:14:11 - Total projects found: 6
+2024-05-29 17:14:36 - Fetching all projects
+2024-05-29 17:14:36 - Total projects found: 6
+2024-05-29 17:14:36 - Fetching all projects
+2024-05-29 17:14:36 - Total projects found: 6
+2024-05-29 17:41:38 - Fetching all projects
+2024-05-29 17:41:38 - Fetching all tasks
+2024-05-29 17:41:38 - Fetched 2 tasks
+2024-05-29 17:41:38 - Total projects found: 6
+2024-05-29 17:45:19 - Fetching all projects
+2024-05-29 17:45:19 - Total projects found: 6
+2024-05-29 17:45:19 - Fetching all projects
+2024-05-29 17:45:19 - Total projects found: 6
+2024-05-29 18:51:06 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46m32s255ms283µs400ns).
+2024-05-29 18:51:56 - Fetching all tasks
+2024-05-29 18:51:56 - Fetching all projects
+2024-05-29 18:51:56 - Fetched 2 tasks
+2024-05-29 18:51:56 - Total projects found: 6
+2024-05-29 18:57:29 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s793ms700µs700ns).
+2024-05-29 19:07:11 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m41s439ms432µs700ns).
+2024-05-29 19:30:51 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m39s835ms524µs100ns).
+2024-05-29 19:38:59 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m8s721ms588µs600ns).
+2024-05-29 19:47:27 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m57s571ms955µs800ns).
+2024-05-29 20:00:42 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m45s6ms435µs).
+2024-05-29 21:20:41 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h14m3s527ms321µs700ns).
+2024-05-29 21:25:18 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-29 21:25:18 - HikariPool-1 - Shutdown initiated...
+2024-05-29 21:25:18 - HikariPool-1 - Shutdown completed.
+2024-05-30 11:12:53 - Starting RevTaskApplication using Java 22.0.1 with PID 20960 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 11:12:53 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 11:12:54 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 11:12:54 - Finished Spring Data repository scanning in 89 ms. Found 7 JPA repository interfaces.
+2024-05-30 11:12:55 - Tomcat initialized with port 8080 (http)
+2024-05-30 11:12:55 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 11:12:55 - Starting service [Tomcat]
+2024-05-30 11:12:55 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 11:12:55 - Initializing Spring embedded WebApplicationContext
+2024-05-30 11:12:55 - Root WebApplicationContext: initialization completed in 1921 ms
+2024-05-30 11:12:55 - HikariPool-1 - Starting...
+2024-05-30 11:12:56 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 4b4e7cfe-9772-4c52-86e8-d8205c3116f3
+2024-05-30 11:12:56 - HikariPool-1 - Start completed.
+2024-05-30 11:12:56 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 11:12:56 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 11:12:56 - HHH000026: Second-level cache disabled
+2024-05-30 11:12:56 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 11:12:58 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 11:12:59 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 11:12:59 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 11:13:00 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 11:13:01 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 11:13:01 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 11:13:01 - Started RevTaskApplication in 8.017 seconds (process running for 8.587)
+2024-05-30 11:25:10 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m14s5ms105µs500ns).
+2024-05-30 11:26:22 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 11:26:22 - HikariPool-1 - Shutdown initiated...
+2024-05-30 11:26:22 - HikariPool-1 - Shutdown completed.
+2024-05-30 11:26:37 - Starting RevTaskApplication using Java 22.0.1 with PID 416 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 11:26:37 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 11:26:37 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 11:26:38 - Finished Spring Data repository scanning in 128 ms. Found 7 JPA repository interfaces.
+2024-05-30 11:26:38 - Tomcat initialized with port 8080 (http)
+2024-05-30 11:26:38 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 11:26:38 - Starting service [Tomcat]
+2024-05-30 11:26:38 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 11:26:38 - Initializing Spring embedded WebApplicationContext
+2024-05-30 11:26:38 - Root WebApplicationContext: initialization completed in 1762 ms
+2024-05-30 11:26:39 - HikariPool-1 - Starting...
+2024-05-30 11:26:39 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: e498cc12-9664-45de-8595-cf17704fa7d1
+2024-05-30 11:26:39 - HikariPool-1 - Start completed.
+2024-05-30 11:26:39 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 11:26:39 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 11:26:39 - HHH000026: Second-level cache disabled
+2024-05-30 11:26:40 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 11:26:41 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 11:26:44 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 11:26:45 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 11:26:46 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 11:26:46 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 11:26:46 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 11:26:46 - Started RevTaskApplication in 9.994 seconds (process running for 10.727)
+2024-05-30 11:37:14 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m4s983ms71µs600ns).
+2024-05-30 11:57:19 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m4s806ms710µs100ns).
+2024-05-30 12:05:19 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m59s477ms249µs600ns).
+2024-05-30 13:33:54 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m30s699ms775µs700ns).
+2024-05-30 13:51:58 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m34s627ms469µs100ns).
+2024-05-30 15:20:26 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h23m27s857ms727µs500ns).
+2024-05-30 15:43:44 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s910ms911µs800ns).
+2024-05-30 15:58:16 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m1s768ms416µs600ns).
+2024-05-30 16:17:40 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m24s702ms613µs400ns).
+2024-05-30 16:36:17 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m36s448ms699µs600ns).
+2024-05-30 16:37:35 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 16:37:35 - Initializing Servlet 'dispatcherServlet'
+2024-05-30 16:37:36 - Completed initialization in 48 ms
+2024-05-30 16:37:36 - Fetching all tasks
+2024-05-30 16:37:36 - Fetched 2 tasks
+2024-05-30 16:46:18 - Creating new task with title Complete project documentation
+2024-05-30 16:46:18 - Created task with id 6
+2024-05-30 16:46:36 - Fetching all tasks
+2024-05-30 16:46:36 - Fetched 3 tasks
+2024-05-30 17:40:54 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m36s568ms311µs900ns).
+2024-05-30 17:50:20 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m25s494ms137µs).
+2024-05-30 19:08:45 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56m54s450ms457µs400ns).
+2024-05-30 19:32:16 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m1s321ms577µs300ns).
+2024-05-30 21:16:47 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=44m56s959ms870µs500ns).
+2024-05-30 21:35:56 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m8s915ms701µs600ns).
+2024-05-30 21:52:51 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m24s949ms695µs700ns).
+2024-05-30 21:59:32 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m10s375ms739µs300ns).
+2024-05-30 22:05:30 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:05:30 - HikariPool-1 - Shutdown initiated...
+2024-05-30 22:05:30 - HikariPool-1 - Shutdown completed.
+2024-05-30 22:05:56 - Starting RevTaskApplication using Java 22.0.1 with PID 20428 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 22:05:56 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 22:05:58 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 22:05:58 - Finished Spring Data repository scanning in 142 ms. Found 7 JPA repository interfaces.
+2024-05-30 22:05:59 - Tomcat initialized with port 8080 (http)
+2024-05-30 22:05:59 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:05:59 - Starting service [Tomcat]
+2024-05-30 22:05:59 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 22:05:59 - Initializing Spring embedded WebApplicationContext
+2024-05-30 22:05:59 - Root WebApplicationContext: initialization completed in 3147 ms
+2024-05-30 22:06:00 - HikariPool-1 - Starting...
+2024-05-30 22:06:01 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 5fb33b98-89dd-4159-b37d-0bc964f7dc26
+2024-05-30 22:06:01 - HikariPool-1 - Start completed.
+2024-05-30 22:06:01 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 22:06:01 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 22:06:01 - HHH000026: Second-level cache disabled
+2024-05-30 22:06:02 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 22:06:04 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 22:06:06 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:06:06 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 22:06:07 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 22:06:08 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:06:08 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 22:06:08 - Started RevTaskApplication in 12.723 seconds (process running for 13.596)
+2024-05-30 22:06:53 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 22:06:53 - Initializing Servlet 'dispatcherServlet'
+2024-05-30 22:06:53 - Completed initialization in 1 ms
+2024-05-30 22:06:53 - Fetching all tasks
+2024-05-30 22:06:53 - Fetched 3 tasks
+2024-05-30 22:07:12 - Fetching task with id 1
+2024-05-30 22:07:12 - Fetched task with id 1
+2024-05-30 22:09:45 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:09:45 - HikariPool-1 - Shutdown initiated...
+2024-05-30 22:09:45 - HikariPool-1 - Shutdown completed.
+2024-05-30 22:09:51 - Starting RevTaskApplication using Java 22.0.1 with PID 20992 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 22:09:51 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 22:09:52 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 22:09:53 - Finished Spring Data repository scanning in 156 ms. Found 7 JPA repository interfaces.
+2024-05-30 22:09:54 - Tomcat initialized with port 8080 (http)
+2024-05-30 22:09:54 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:09:54 - Starting service [Tomcat]
+2024-05-30 22:09:54 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 22:09:54 - Initializing Spring embedded WebApplicationContext
+2024-05-30 22:09:54 - Root WebApplicationContext: initialization completed in 2864 ms
+2024-05-30 22:09:54 - HikariPool-1 - Starting...
+2024-05-30 22:09:55 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 2635a199-9006-4b5f-889b-b48dc52203d1
+2024-05-30 22:09:55 - HikariPool-1 - Start completed.
+2024-05-30 22:09:55 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 22:09:55 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 22:09:55 - HHH000026: Second-level cache disabled
+2024-05-30 22:09:55 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 22:09:57 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 22:09:58 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:09:59 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 22:10:00 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 22:10:01 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:10:01 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 22:10:01 - Started RevTaskApplication in 11.352 seconds (process running for 12.129)
+2024-05-30 22:10:24 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 22:10:24 - Initializing Servlet 'dispatcherServlet'
+2024-05-30 22:10:24 - Completed initialization in 2 ms
+2024-05-30 22:11:44 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:11:44 - HikariPool-1 - Shutdown initiated...
+2024-05-30 22:11:44 - HikariPool-1 - Shutdown completed.
+2024-05-30 22:11:50 - Starting RevTaskApplication using Java 22.0.1 with PID 1840 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 22:11:50 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 22:11:52 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 22:11:52 - Finished Spring Data repository scanning in 133 ms. Found 7 JPA repository interfaces.
+2024-05-30 22:11:53 - Tomcat initialized with port 8080 (http)
+2024-05-30 22:11:53 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:11:53 - Starting service [Tomcat]
+2024-05-30 22:11:53 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 22:11:53 - Initializing Spring embedded WebApplicationContext
+2024-05-30 22:11:53 - Root WebApplicationContext: initialization completed in 2617 ms
+2024-05-30 22:11:53 - HikariPool-1 - Starting...
+2024-05-30 22:11:54 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: be0685a4-85c0-467c-8fa9-9f56d1cb923d
+2024-05-30 22:11:54 - HikariPool-1 - Start completed.
+2024-05-30 22:11:54 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 22:11:54 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 22:11:54 - HHH000026: Second-level cache disabled
+2024-05-30 22:11:55 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 22:11:56 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 22:11:57 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:11:57 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 22:11:58 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 22:11:59 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:11:59 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 22:11:59 - Started RevTaskApplication in 9.138 seconds (process running for 10.131)
+2024-05-30 22:12:08 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 22:12:08 - Initializing Servlet 'dispatcherServlet'
+2024-05-30 22:12:08 - Completed initialization in 5 ms
+2024-05-30 22:17:32 - Fetching all projects
+2024-05-30 22:17:32 - Total projects found: 6
+2024-05-30 22:32:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:32:12 - HikariPool-1 - Shutdown initiated...
+2024-05-30 22:32:12 - HikariPool-1 - Shutdown completed.
+2024-05-30 22:32:20 - Starting RevTaskApplication using Java 22.0.1 with PID 15896 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 22:32:20 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 22:32:21 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 22:32:21 - Finished Spring Data repository scanning in 179 ms. Found 7 JPA repository interfaces.
+2024-05-30 22:32:22 - Tomcat initialized with port 8080 (http)
+2024-05-30 22:32:22 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:32:22 - Starting service [Tomcat]
+2024-05-30 22:32:22 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 22:32:22 - Initializing Spring embedded WebApplicationContext
+2024-05-30 22:32:22 - Root WebApplicationContext: initialization completed in 2472 ms
+2024-05-30 22:32:23 - HikariPool-1 - Starting...
+2024-05-30 22:32:23 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: d29f4084-d034-457a-a3e9-62854d1d237a
+2024-05-30 22:32:23 - HikariPool-1 - Start completed.
+2024-05-30 22:32:23 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 22:32:23 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 22:32:23 - HHH000026: Second-level cache disabled
+2024-05-30 22:32:24 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 22:32:25 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 22:32:26 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:32:27 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 22:32:28 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 22:32:28 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:32:28 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 22:32:29 - Started RevTaskApplication in 9.531 seconds (process running for 10.387)
+2024-05-30 22:34:14 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 22:34:14 - Initializing Servlet 'dispatcherServlet'
+2024-05-30 22:34:14 - Completed initialization in 5 ms
+2024-05-30 22:34:14 - Fetching team members for project with id: 1
+2024-05-30 22:37:00 - Fetching all projects
+2024-05-30 22:37:01 - Total projects found: 6
+2024-05-30 22:55:17 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:55:17 - HikariPool-1 - Shutdown initiated...
+2024-05-30 22:55:17 - HikariPool-1 - Shutdown completed.
+2024-05-30 22:55:24 - Starting RevTaskApplication using Java 22.0.1 with PID 22948 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 22:55:24 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 22:55:26 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 22:55:26 - Finished Spring Data repository scanning in 148 ms. Found 7 JPA repository interfaces.
+2024-05-30 22:55:27 - Tomcat initialized with port 8080 (http)
+2024-05-30 22:55:27 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:55:27 - Starting service [Tomcat]
+2024-05-30 22:55:27 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 22:55:27 - Initializing Spring embedded WebApplicationContext
+2024-05-30 22:55:27 - Root WebApplicationContext: initialization completed in 2823 ms
+2024-05-30 22:55:27 - HikariPool-1 - Starting...
+2024-05-30 22:55:28 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: f077cac1-0f18-4371-ad00-9422e082b0f9
+2024-05-30 22:55:28 - HikariPool-1 - Start completed.
+2024-05-30 22:55:28 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 22:55:28 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 22:55:28 - HHH000026: Second-level cache disabled
+2024-05-30 22:55:29 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 22:55:31 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 22:55:32 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 22:55:33 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 22:55:34 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 22:55:35 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 22:55:35 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 22:55:35 - Started RevTaskApplication in 11.649 seconds (process running for 12.505)
+2024-05-30 22:56:15 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 22:56:15 - Initializing Servlet 'dispatcherServlet'
+2024-05-30 22:56:15 - Completed initialization in 2 ms
+2024-05-30 22:56:15 - Fetching all projects
+2024-05-30 22:56:15 - Total projects found: 6
+2024-05-30 22:56:38 - Fetching all projects
+2024-05-30 22:56:38 - Total projects found: 6
+2024-05-30 22:59:23 - Fetching all projects
+2024-05-30 22:59:23 - Total projects found: 6
+2024-05-30 23:02:26 - Stopping ProtocolHandler ["http-nio-8080"]
+2024-05-30 23:02:26 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 23:02:26 - HikariPool-1 - Shutdown initiated...
+2024-05-30 23:02:26 - HikariPool-1 - Shutdown completed.
+2024-05-30 23:02:33 - Starting RevTaskApplication using Java 22.0.1 with PID 3672 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 23:02:33 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 23:02:35 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 23:02:35 - Finished Spring Data repository scanning in 166 ms. Found 7 JPA repository interfaces.
+2024-05-30 23:02:36 - Tomcat initialized with port 8080 (http)
+2024-05-30 23:02:36 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 23:02:36 - Starting service [Tomcat]
+2024-05-30 23:02:36 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 23:02:36 - Initializing Spring embedded WebApplicationContext
+2024-05-30 23:02:36 - Root WebApplicationContext: initialization completed in 3320 ms
+2024-05-30 23:02:37 - HikariPool-1 - Starting...
+2024-05-30 23:02:37 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 8ef7a83d-2c31-4640-b0d3-b4c227951973
+2024-05-30 23:02:37 - HikariPool-1 - Start completed.
+2024-05-30 23:02:37 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 23:02:38 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 23:02:38 - HHH000026: Second-level cache disabled
+2024-05-30 23:02:38 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 23:02:40 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 23:02:41 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 23:02:42 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 23:02:43 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 23:02:44 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 23:02:44 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 23:02:44 - Started RevTaskApplication in 12.196 seconds (process running for 13.106)
+2024-05-30 23:02:51 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 23:02:51 - Initializing Servlet 'dispatcherServlet'
+2024-05-30 23:02:51 - Completed initialization in 1 ms
+2024-05-30 23:02:51 - Fetching all projects
+2024-05-30 23:02:51 - Total projects found: 6
+2024-05-30 23:02:59 - Fetching all projects
+2024-05-30 23:02:59 - Total projects found: 6
+2024-05-30 23:04:34 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 23:04:34 - HikariPool-1 - Shutdown initiated...
+2024-05-30 23:04:34 - HikariPool-1 - Shutdown completed.
+2024-05-30 23:04:41 - Starting RevTaskApplication using Java 22.0.1 with PID 18856 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-30 23:04:41 - No active profile set, falling back to 1 default profile: "default"
+2024-05-30 23:04:43 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-30 23:04:43 - Finished Spring Data repository scanning in 197 ms. Found 7 JPA repository interfaces.
+2024-05-30 23:04:44 - Tomcat initialized with port 8080 (http)
+2024-05-30 23:04:44 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-30 23:04:44 - Starting service [Tomcat]
+2024-05-30 23:04:44 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-30 23:04:44 - Initializing Spring embedded WebApplicationContext
+2024-05-30 23:04:44 - Root WebApplicationContext: initialization completed in 2944 ms
+2024-05-30 23:04:44 - HikariPool-1 - Starting...
+2024-05-30 23:04:45 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: 98ca5cf9-41d5-419a-aded-09e89a47f367
+2024-05-30 23:04:45 - HikariPool-1 - Start completed.
+2024-05-30 23:04:45 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-30 23:04:46 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-30 23:04:46 - HHH000026: Second-level cache disabled
+2024-05-30 23:04:46 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-30 23:04:48 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-30 23:04:49 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-30 23:04:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-30 23:04:50 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-30 23:04:51 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-30 23:04:51 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-30 23:04:51 - Started RevTaskApplication in 10.895 seconds (process running for 11.876)
+2024-05-30 23:05:05 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-30 23:05:05 - Initializing Servlet 'dispatcherServlet'
+2024-05-30 23:05:05 - Completed initialization in 1 ms
+2024-05-30 23:05:05 - Fetching all projects
+2024-05-30 23:05:05 - Total projects found: 6
+2024-05-31 00:20:42 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m26s957ms510µs600ns).
+2024-05-31 01:09:42 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 01:09:42 - HikariPool-1 - Shutdown initiated...
+2024-05-31 01:09:42 - HikariPool-1 - Shutdown completed.
+2024-05-31 01:09:54 - Starting RevTaskApplication using Java 22.0.1 with PID 12240 (C:\Users\Admin\Desktop\Backend\RevTask\RevTask\target\classes started by Admin in C:\Users\Admin\Desktop\Backend\RevTask\RevTask)
+2024-05-31 01:09:54 - No active profile set, falling back to 1 default profile: "default"
+2024-05-31 01:09:56 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-05-31 01:09:56 - Finished Spring Data repository scanning in 180 ms. Found 7 JPA repository interfaces.
+2024-05-31 01:09:58 - Tomcat initialized with port 8080 (http)
+2024-05-31 01:09:58 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-31 01:09:58 - Starting service [Tomcat]
+2024-05-31 01:09:58 - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-31 01:09:58 - Initializing Spring embedded WebApplicationContext
+2024-05-31 01:09:58 - Root WebApplicationContext: initialization completed in 3949 ms
+2024-05-31 01:09:58 - HikariPool-1 - Starting...
+2024-05-31 01:09:59 - HikariPool-1 - Added connection ConnectionID:1 ClientConnectionId: c0fa0131-8593-4296-814f-64af12ec0529
+2024-05-31 01:09:59 - HikariPool-1 - Start completed.
+2024-05-31 01:10:00 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-05-31 01:10:01 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-05-31 01:10:01 - HHH000026: Second-level cache disabled
+2024-05-31 01:10:02 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-05-31 01:10:04 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-05-31 01:10:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-05-31 01:10:06 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-05-31 01:10:08 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-05-31 01:10:09 - Starting ProtocolHandler ["http-nio-8080"]
+2024-05-31 01:10:09 - Tomcat started on port 8080 (http) with context path '/'
+2024-05-31 01:10:09 - Started RevTaskApplication in 15.93 seconds (process running for 17.145)
+2024-05-31 01:12:06 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 01:12:06 - Initializing Servlet 'dispatcherServlet'
+2024-05-31 01:12:06 - Completed initialization in 3 ms
+2024-05-31 01:12:12 - Fetching all tasks
+2024-05-31 01:12:12 - Fetched 3 tasks
+2024-05-31 07:30:27 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h24m26s662ms558µs100ns).
+2024-05-31 07:51:32 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m10s62ms386µs500ns).
+2024-05-31 08:49:42 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m2s236ms658µs300ns).
+2024-05-31 09:08:53 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m40s261ms266µs100ns).
+2024-05-31 09:46:44 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m51s377ms116µs300ns).
+2024-05-31 10:01:47 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m32s565ms432µs600ns).
+2024-05-31 10:20:49 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m1s660ms678µs100ns).
